@@ -1,0 +1,17 @@
+[
+  {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "role": "owner",
+    "validFrom": "2026-10-03T04:58:21.304Z",
+    "retiredAt": null,
+    "compromisedAt": null
+  },
+  {
+    "keyId": "service:a3f979541aee7826",
+    "role": "service",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEAznpr8YqjR9Tnybjwpv8FwymxdBp4fEaSvi50noAm07s=\n-----END PUBLIC KEY-----\n",
+    "validFrom": "2026-10-03T04:58:21.590Z",
+    "retiredAt": null,
+    "compromisedAt": null
+  }
+]

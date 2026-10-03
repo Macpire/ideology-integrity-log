@@ -1,0 +1,65 @@
+{
+  "seq": 1,
+  "prev": null,
+  "edition": "archive-ca",
+  "publishedAt": "2026-10-03T05:05:39.350Z",
+  "records": [
+    {
+      "id": "ca-1978-prop-13",
+      "kind": "content",
+      "fingerprint": "829f0dc9343060c10a2074c8a63d3b27e01752b75658c9eaae52445818e24b32",
+      "supersedes": null
+    },
+    {
+      "id": "ca-1988-prop-73",
+      "kind": "content",
+      "fingerprint": "180ace379cb45d9134823ae6f60171cc062b4cdad932157350d91bab3b41aab2",
+      "supersedes": null
+    },
+    {
+      "id": "ca-1996-prop-218",
+      "kind": "content",
+      "fingerprint": "c31624038303893a823d3f0659b3ed1b3b7b4b8a88528f388156e0acf3f18840",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2012-prop-30",
+      "kind": "content",
+      "fingerprint": "c583e061f90fabcfe974a7c970965c9fba6bc444e264ab90ee6d89b55e111870",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2014-prop-2",
+      "kind": "content",
+      "fingerprint": "f9b0b7e66dd599d3e5f121a4f27434673f7bd0433d88a4544b5fe59bb399e113",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2016-prop-55",
+      "kind": "content",
+      "fingerprint": "1d4036b072b09fc81debb2b49d403353d3e8cd2034d69a10c740bb4a574cf7d0",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "d12f8e2dfa106ff2bd5e2cef627574928ca528a328b6e00558c6b3e6b793bc70",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "0gB5+tRSy6Ed8X8sI0KHmYKgpTdiaswDHDuDB78jjFcurXhaRxBCIh9QLrHFWuwSqq2TiFKPadWDUpkkPdYBBg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nUAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEoAAAAhAJIB9+tLQ1N2+QmyAr14b8hQsSYE\njY868CkEhuw5WJotAAAAIQC7QK5Sous22qq370XdMOmKHxAB0P4i8wdTlbLhM+2uhQ==\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/1/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/1/opentimestamps.ots"
+    }
+  ]
+}

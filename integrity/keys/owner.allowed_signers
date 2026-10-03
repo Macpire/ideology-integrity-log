@@ -1,0 +1,5 @@
+# Owner keys allowed to sign "owner approved" (OpenSSH allowed_signers format).
+# One line per hardware key, added at release (see integrity/README.md):
+# verify-required makes ssh-keygen -Y verify refuse a signature made without the PIN.
+# roded@macpire.com namespaces="ideology-integrity",verify-required sk-ssh-ed25519@openssh.com AAAA... roded@macpire.com
+roded@macpire.com namespaces="ideology-integrity" ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKMadRGWfa6eQGHzDvYUC7NOBpiTNIWmiYDkIQLgh5T5MnAdxYIjkXF1gbRFLmuYy4Neq6YBTUGUO0ewjApjjdk= ideology-integrity@secretive

@@ -1,0 +1,341 @@
+{
+  "seq": 3,
+  "prev": "69779fee32a88918e28dbc1ba0926808859071d290af4de2b0f4f8a54eafac02",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-03T05:05:39.350Z",
+  "records": [
+    {
+      "id": "il-amcha-yisrael-cost-of-living",
+      "kind": "content",
+      "fingerprint": "820ed6786b6b2318514dc62a4fd35b2122daf2bf40cfbecaf2b3153335830028",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-gaza-governance",
+      "kind": "content",
+      "fingerprint": "277b31b7826c8ad3a325c2ff03481d749edee9f1e77007849185949e36621e88",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "3b11ed56e23f5cb08f7c1981a94c9f9ee1527274c21bc937e4d88a9581a93557",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-cost-of-living",
+      "kind": "content",
+      "fingerprint": "393bbe88252b774758220a0762d9d02218e7ce63a7a7331305366bb4f87e901f",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-gaza-governance",
+      "kind": "content",
+      "fingerprint": "903a8e72fb64fb9c8a5da2f046fb8586112392a66975765114b39bee31b05697",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-gaza-sequence",
+      "kind": "content",
+      "fingerprint": "cc83976ec489987fe99832067a23657b7669740f8ee5bc860f91176101ab1e61",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-haredi-draft",
+      "kind": "content",
+      "fingerprint": "4133e88b9eb71a726c5440cac0a11d74beef45a38e629e0b11546b5911510e67",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "6534c932b962639f6a2e1875df29f65c526c458e95ac306600da5acab0fc6459",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-religion-state",
+      "kind": "content",
+      "fingerprint": "326453741958c1017f2b09a735a4a70e0e6356bc7316e917b7a25c6a5025ea38",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-arab-equality",
+      "kind": "content",
+      "fingerprint": "8ee57a1dc8b27f86281833f7a49e402890996a6d4bb06de46af167d9bdd8627d",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-cost-of-living",
+      "kind": "content",
+      "fingerprint": "de9e15ff0a5721b3859432bacb2e88cd70696c67f1798b2c6c49b593dc4b6e66",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-gaza-governance",
+      "kind": "content",
+      "fingerprint": "19d34ef43e9b352a4f55e0875952204b343b3ce2a54917a4dce62316b87b1cca",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-gaza-sequence",
+      "kind": "content",
+      "fingerprint": "5a56d22bb87f4093d063100ffb3cbdd7f20cd57d588ac064fd2f2db32c0ba137",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-haredi-draft",
+      "kind": "content",
+      "fingerprint": "66f590b98189f91f89f84623e81385134759d8e168d277c31c7b57a78699ec9c",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-judge-selection",
+      "kind": "content",
+      "fingerprint": "398eeab7c468b52ba844593548297272df7b84f67a3942177e74d32993df042f",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-normalization",
+      "kind": "content",
+      "fingerprint": "89e4cf2bc4a02c31d3b864d685b80443eec22acb366f088dd22d4a02f6b53a23",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "cd0568a16c015973a44a59f657a96ce68a0ac2bdeedd92279ba2ddac729bbee1",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-palestinian-state",
+      "kind": "content",
+      "fingerprint": "90bd22cc8173e1278c3b9e7de3ea734409c0f3f89766b8e2e2e955fead1b1e3a",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-religion-state",
+      "kind": "content",
+      "fingerprint": "a348bce148f2b42b07b5e7a1d26d3414201736d5bc6b08d15d611b3252ac3cef",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-settlements",
+      "kind": "content",
+      "fingerprint": "cc978e04127bf9b00424c1c71eff0daa638eb2e828366c0c46e07e57b37084ed",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-sovereignty",
+      "kind": "content",
+      "fingerprint": "10622943bd646ceebffef472bc3e5948dc963a6d48ce8e496b5c0b73700d0aef",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-arab-equality",
+      "kind": "content",
+      "fingerprint": "ac951deabbe0fdd1870b616b97cf70a4b45601a22f050c5f36b703a5f3a76b6a",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-cost-of-living",
+      "kind": "content",
+      "fingerprint": "a8a512c14a11496698ecc015bed4a1dbaa996be4958c5faac5213b6ce3f8b7de",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-palestinian-state",
+      "kind": "content",
+      "fingerprint": "c2e36bc41845a21da0079c528cfcf85c632b34078e18c1fab8d9ce636dbef8c4",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-cost-of-living",
+      "kind": "content",
+      "fingerprint": "abeaf6a18143ef7fdb1e34fe04e4b315661de3ecf7d52d9ac240779bc372bb7e",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "662d3e50c2c9c2204b8120b15f7d5586122e40d4aa7bf3ed1d1dcea90ad71d4d",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-settlements",
+      "kind": "content",
+      "fingerprint": "853ac374e09512e4b23942ce7c7705614e09158b2486c9a79712683bc771cf75",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-sovereignty",
+      "kind": "content",
+      "fingerprint": "45223e43cb2fac2b58e0cd011807e86b3196646bd88a934232b4331b4a637b1d",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-palestinian-state",
+      "kind": "content",
+      "fingerprint": "49d5393ba1eb813f660e27e170ec2b09597fa430f2031c6f058c3875537d9c5e",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-settlements",
+      "kind": "content",
+      "fingerprint": "5adba0d3ae8831f26636422b07213ce6fdffb0a1960ae94372f9dba3e1914c77",
+      "supersedes": null
+    },
+    {
+      "id": "il-raam-arab-equality",
+      "kind": "content",
+      "fingerprint": "b1a487c682b8ed5a600a745e6b69bc5050d7509e90d629a162f7572f761c51ee",
+      "supersedes": null
+    },
+    {
+      "id": "il-raam-cost-of-living",
+      "kind": "content",
+      "fingerprint": "461d830aeff9e8e38403a6e94b88cbc15d6888573824e0fc2dedb5d65f4250b7",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-gaza-aid",
+      "kind": "content",
+      "fingerprint": "400152365fa048d357e960827a1ae8b08292151d36061a99e05d6f4ebe2217f0",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-sovereignty",
+      "kind": "content",
+      "fingerprint": "dd3c7ecf77272881a90498d4464d04ac86bea585621390a0e5341e874fd403cb",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-cost-of-living",
+      "kind": "content",
+      "fingerprint": "9fdc60a3cdb62956852553b00500a66483586222a4047054662a24a0c94e93cf",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-haredi-draft",
+      "kind": "content",
+      "fingerprint": "08bd54f0c0a119c4823958d95902427aa96de62c2fa3db76fae53d321552bec8",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-religion-state",
+      "kind": "content",
+      "fingerprint": "8744cb7cfc96e60e7de170b7d8ee6ded0d397a2204bda8d3c748156417db823b",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-sovereignty",
+      "kind": "content",
+      "fingerprint": "fa434c97d3fba79708ca7a5092080c50d9b12fadb0d4cdf9a657156ec5c8736f",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-cost-of-living",
+      "kind": "content",
+      "fingerprint": "3edbf1000bdb8288a2919ed40629f2fccab9ab1756ddd76259164fd262912e8f",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-haredi-draft",
+      "kind": "content",
+      "fingerprint": "ce7b47f0167f44d60e6361041e0e13883c207b9fb7ffe0818289eb58de65fdf6",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-religion-state",
+      "kind": "content",
+      "fingerprint": "8ab1aaddc8a879d8929012f819c1fff199d46633882b4b777b6757e93d017060",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-sovereignty",
+      "kind": "content",
+      "fingerprint": "97d098b09b35f19fc713a7cb6baefeef069cb627fb38c44b9f46b8045f058166",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-cost-of-living",
+      "kind": "content",
+      "fingerprint": "d87faac7e745a22b39829c2ab362c27bcf9199ffc2e396929bdbeae75de837d7",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "e8f17404637e3289a9fc5e2e43212f6140d94e6381229f4675effb73b5d0bb72",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-palestinian-state",
+      "kind": "content",
+      "fingerprint": "5047ed1ab4d7c8eaad177f17ca752fb5ab7866bccdd3956b4f80ac464883bfe7",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-arab-equality",
+      "kind": "content",
+      "fingerprint": "ff98b9ad44786049d771e60ca206ba535ad5f2eb60869e830cdead105686c869",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-cost-of-living",
+      "kind": "content",
+      "fingerprint": "4a5db5997e282ede29c483e181717729ef875f12d458c34bb891aef2b0be75d7",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-gaza-aid",
+      "kind": "content",
+      "fingerprint": "ecb5bf5e407d0efe3c9c37cb6b81a3967cf5c0b8b4ae7cdd1b025697b73d2caf",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-gaza-governance",
+      "kind": "content",
+      "fingerprint": "57e27a82620ed8915bb2176e5e8290e0dc55290c8a9ff48e7756a1146deb8a03",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-haredi-draft",
+      "kind": "content",
+      "fingerprint": "3b175e1bbc6d7dd97d6bc764f989249fd0dc10e070dab900a9db8d7a3fa46b1e",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "dde8e5e9a31689267b323ffe1cb07b6db0c3d1f99cb956c38cffb43222d80845",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-religion-state",
+      "kind": "content",
+      "fingerprint": "3a672ada53800a31bec63893d0f0c0adaea01cf2673d460a9a32ec59b870661c",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "bf7f9646337e9305f12303f18c3adac264a8672519838db430261e378db540ba",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "tG+bfQ4KLLsULPv995/ACV2A5fcDu7p/DKcv72xIS4bWP6DoOpgLq/I31gQDBUqoRrD0vJ7tncEzqov3Oz+GDg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgXS+3C5r0T3ckrTJrhimbd+m+uHQx\nkv55kq9flN5q1soAAAAgb7YeMxmvVwes/C1uJO44Klwl0Fsmuk0YtxsnhCUvXnY=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/3/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/3/opentimestamps.ots"
+    }
+  ]
+}

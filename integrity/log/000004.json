@@ -1,0 +1,191 @@
+{
+  "seq": 4,
+  "prev": "ba7affff0f5af14f58361a34329e902636c88c5c3ebe24242ce3ebfbd3b388a2",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-03T05:05:39.350Z",
+  "records": [
+    {
+      "id": "us-dem",
+      "kind": "content",
+      "fingerprint": "0ac8e34a1e682265dd55718ed3cb246b1250b256f8fc5c03ab8e6f114fd401e4",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-abortion",
+      "kind": "content",
+      "fingerprint": "a4e82fec3efd25599fb56c7d6c1021a70a4e5753568916af8d9eaa3be135e299",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-climate",
+      "kind": "content",
+      "fingerprint": "ef18f96a87c9c52194eabc0730e025354a448e6adc9134510178e230c3b9d02b",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-college",
+      "kind": "content",
+      "fingerprint": "9bb94bdbb36bcebe8b5e62a5168a76bb7bd298bc8612289a2195c37145d74d0a",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-guns",
+      "kind": "content",
+      "fingerprint": "7d7a760a208fb0504be7d5f039936c7958d07e04cce4ad4d277b7a17e8e0fef4",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-healthcare",
+      "kind": "content",
+      "fingerprint": "232000913d8f364fcb65c38eaa9e52021a2b8fce9e734a3f8d0c0182c0736eeb",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-immigration",
+      "kind": "content",
+      "fingerprint": "6917f0d3d204fc7886614eeffab1eb2461583544fdca9e32073ad486a6ccc29d",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-israel-ally",
+      "kind": "content",
+      "fingerprint": "aea716d98d942f4d81a2a2ce069beb90861c0561a9998bbbdc4c700752f075b4",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-palestinian-state",
+      "kind": "content",
+      "fingerprint": "b4722d1a9f53c2011185c8380375192ec97e6771f59a03ab337031086f381ef9",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-schools",
+      "kind": "content",
+      "fingerprint": "73e1efea3c596d7d137eabe2d33a1fab531ef901feb40fad353f378de9616fc4",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-taxation",
+      "kind": "content",
+      "fingerprint": "b30f9ac724f6aa2d2b3a1e2377ca9c1722bb5740182b1cdc1a3519a4087faed8",
+      "supersedes": null
+    },
+    {
+      "id": "us-dem-trade",
+      "kind": "content",
+      "fingerprint": "ed1c61e44b61e56e88fadc0981da77f650ad008b377a71d6dba1ea124c98c16b",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop",
+      "kind": "content",
+      "fingerprint": "874ac3b6aa8552515ae193209144dfb0b64027a271161948dd41e4f6312d873a",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-abortion",
+      "kind": "content",
+      "fingerprint": "09b6c7cd74e4feed596be5494aa3342e8be775f68de6d25c239d4296bf1d571e",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-climate",
+      "kind": "content",
+      "fingerprint": "89f7bdb3f3c3d4cb634a39e088278e5bbe8e6720e06ca1f79de22dfd395b0056",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-guns",
+      "kind": "content",
+      "fingerprint": "b2d881b8cbbb243f37f7865d661d53ca1bc93a34c7b943199afaa22a04a8673c",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-healthcare",
+      "kind": "content",
+      "fingerprint": "95c063eec4ba0cd52ae203b00b8d9467ab71d883d807701e1a0b1cc53f017345",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-immigration",
+      "kind": "content",
+      "fingerprint": "5244f4133a67942664bcebb7d8ac3fefe2f8ab48090d5ae30b2e2a7070e396c8",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-israel-ally",
+      "kind": "content",
+      "fingerprint": "a81be761d142dbc0085d703a33e33db0f6dfb8a96897ba61c775b756b8daa3d0",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-military",
+      "kind": "content",
+      "fingerprint": "cfa98b62e8ac130972fa54ff810654f461730bf07bb182b3eb4bff6681e7e7e2",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-retirement",
+      "kind": "content",
+      "fingerprint": "f22feb5da6251e4c0d71053e444164cb7c1f7b6d3c2fcb5d42e46fab0bb9605a",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-schools",
+      "kind": "content",
+      "fingerprint": "a17ff619ad0815100501ac95c934b721ac68bbc1f400b874a0f920f0c92a13bb",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-speech",
+      "kind": "content",
+      "fingerprint": "0a276ef439878f7955d02d8821d74893f5f4c7c2f14bd56c6c5db4249e95c55d",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-spending",
+      "kind": "content",
+      "fingerprint": "a658b02d521a942fa8941a1a98d18147e36ba6343e48188c3a0acde42b1bf8dc",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-sports",
+      "kind": "content",
+      "fingerprint": "6f27ef00909cf5d8397f93d049b11e3cc0db7192adc69866dcdd35ea0acb33b2",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-taxation",
+      "kind": "content",
+      "fingerprint": "7963fbcf124931d65ec6ea7e9159db1acd4a6b1b32d162edcd61ca01ec85339f",
+      "supersedes": null
+    },
+    {
+      "id": "us-gop-trade",
+      "kind": "content",
+      "fingerprint": "ada7b1c07c71c2c51484f71c6c1a036d2a5bdc54982ef159765ca751ea34359d",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "873739df9980042724f63c8e3c9f2d0ea9c5649c33a390e2c127d6db96f9c56e",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "NdgqDU0uXpwtST+7d+3pLWfEqkR53NPSxDkFYhpXVbFq/wpbalYUUZPc+ywpgDtQpFJrUAmkPDASAOyMBChjDw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nUAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEoAAAAhAJZg+Em7yjBVUXJgr9nyt7iqG8CF\nrr9hZUKxZk8xBoqsAAAAIQC0AZkmXTQ9PwEgXTzuK2jweGLM0CaEgBnBpJiDTxzcWw==\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/4/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/4/opentimestamps.ots"
+    }
+  ]
+}
