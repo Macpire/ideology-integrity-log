@@ -1,0 +1,59 @@
+{
+  "seq": 5,
+  "prev": "f4857ee09528ae2d1dc0188bc789c235345fe76bce0099ac318629c02a68cb9c",
+  "edition": "archive-ca",
+  "publishedAt": "2026-10-03T05:31:23.125Z",
+  "records": [
+    {
+      "id": "ca-1978-prop-13@believe.tax-threshold:link-direction",
+      "kind": "judgment",
+      "fingerprint": "36f1e4064669b907f18798db971f46718a942c40e29bb42b3a9762ee41e09311",
+      "supersedes": null
+    },
+    {
+      "id": "ca-1988-prop-73@believe.campaign-money:link-direction",
+      "kind": "judgment",
+      "fingerprint": "21b548fc0fb8125a93261ed325eefcd9d4ae03d3b9e09336105a8fb97721ec95",
+      "supersedes": null
+    },
+    {
+      "id": "ca-1996-prop-218@believe.tax-threshold:link-direction",
+      "kind": "judgment",
+      "fingerprint": "ced98cd2f96dfeee6e01e4294ea20c9b513e6d89d848bf61572d1adfc75cf0a1",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2012-prop-30@believe.tax-share:link-direction",
+      "kind": "judgment",
+      "fingerprint": "617c510a065e8f5065e5c2d4fb03b933d25d925e33db705d77ee5a92a248b841",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2014-prop-2@believe.rainy-day:link-direction",
+      "kind": "judgment",
+      "fingerprint": "417581e642802beb105d177e67e65e867b8c1479246f3f929c92101a4f29bb1d",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "a76d8a8ff17e6e9a4ae8ec076c5011f3405dd0a6b6b77872664c5a70f276a6c1",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "wGwljaCbC5O6fzQjrhmytqGsQZWWG0vZrfMvYgz2+UHUwosxR8csYXAucR/Y9In1lw2KpteA+Hykmi2gi8mMCg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgTyOn3g1H6Jq1B7DcltjlBnrsKLuN\nWOtcDi+o86TLJxMAAAAgbcZpegoMGsd7rBikeokYn6kl+e9H7vNT74dNexmaFTs=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/5/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/5/opentimestamps.ots"
+    }
+  ]
+}

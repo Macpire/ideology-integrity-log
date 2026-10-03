@@ -1,0 +1,509 @@
+{
+  "seq": 6,
+  "prev": "c347c763bdae729d39b6f2c15fdfafc8c19dd4352fffeeb79b6c41f6e024741d",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-03T05:31:23.125Z",
+  "records": [
+    {
+      "id": "allen-insurance:position-side",
+      "kind": "judgment",
+      "fingerprint": "a48ba1874267099b3bda5bec00440c91463b0d38e2081d6c9f09709251f9132a",
+      "supersedes": null
+    },
+    {
+      "id": "allen:inclusion",
+      "kind": "judgment",
+      "fingerprint": "299172d44be1ab53ebb24555e4d502979a8bea179b3f36083493715c86fc0c06",
+      "supersedes": null
+    },
+    {
+      "id": "barrera-schools:position-side",
+      "kind": "judgment",
+      "fingerprint": "a8bf64563202485082cb245edcb254ae6e22465bf60f64b57945fab18d2845cb",
+      "supersedes": null
+    },
+    {
+      "id": "barrera:inclusion",
+      "kind": "judgment",
+      "fingerprint": "66662312e191d0038634de607e3ecc73620ec815d363734b0aa3e72f78f25a27",
+      "supersedes": null
+    },
+    {
+      "id": "becerra-abortion:position-side",
+      "kind": "judgment",
+      "fingerprint": "ebf10fafaafb24db9f3544caad5615e3b2c06c583dc973c5044f0188a4a621e7",
+      "supersedes": null
+    },
+    {
+      "id": "becerra-climate:position-side",
+      "kind": "judgment",
+      "fingerprint": "eeb05b95fe77af27c74fbbf5505d2642192009aa63fdd46ccb04efc7bb9b7afe",
+      "supersedes": null
+    },
+    {
+      "id": "becerra-healthcare:position-side",
+      "kind": "judgment",
+      "fingerprint": "4f6a15bb91ff1bba42782b438971eb3578c999e3698bd2b6fdf5d9580a9f0bad",
+      "supersedes": null
+    },
+    {
+      "id": "becerra:inclusion",
+      "kind": "judgment",
+      "fingerprint": "ce4983f5c907efca7bd35a50e04bcea19a4f7786193f62ff8923cd7ac684dc07",
+      "supersedes": null
+    },
+    {
+      "id": "ca-hilton-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "d7f41a3a6ebc99748d382f85eaf8e9c8d7a5b321ef340e5370319a4e36b1cbbd",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-1-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "3af620ce20744aa936d8b7dfd85a955312710c2e4fc8438659067f3302011a8d",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-1-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "27fe295de04e2eebdfee6beed0a923489f1f31ffa686854fbc67b8227e1f45ae",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-1@believe.borrowing:link-direction",
+      "kind": "judgment",
+      "fingerprint": "22ed44d3722d7be6206ee1cf626696bff94959beb109e57ed65c8b2e092ad830",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-2-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "1d26b622c11fc056415b8096e3bb83d82921cf66b952357a50dc292bc36e29f0",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-2-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "5dae3331d4f782b417d7763cd94de5cdee498f70f8e86e159743a7a8afaf64e7",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-2-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "e45d458be03fdcb3642742288218c37cc59ab004589fc53ccd8f585c67697722",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-2-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "c847c6a106dc3d614d8bf50d70100202c592656de5fece1db3ae5b6d928be93f",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-2@believe.rainy-day:link-direction",
+      "kind": "judgment",
+      "fingerprint": "c227d2dedc98b00971953ef587591b8af1a38d8a9c156edae7d0e1133b27af2e",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "799d3a20b4784b1293ddb0a67f39aab667fe57b2b56a2ce22a93d194b0afb443",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "0c5eec619e3bba92333148b97f6973109d9d764e7cd52f2ba3af3f8008a16545",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "e1c6e4c28f6a8adf401a2436b8578857cb2f7669efe764a01317b5d8103588aa",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "da83db1c37d0367693daddbf3eaee2e94724f2904b064b454f2012fa84b19e12",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3-claim-5:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "89adf2a00b650c43e0a969eed94bf27bdc25939a3019e408d04afd8980e836fb",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-37-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "12f989c808b6e386e251cbe19f71724f3e030b619bd9922433729b914cf206c9",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-37-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "94f6491afcf80b487bdd9257e3bbc9f5e3343dc435de71f20c88dca647769e35",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-38-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "83c3889ca4926d126778ecc8f31943170953be6f3df0288f310efcee893e6546",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-38-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "a807f07fad273cf5bb949e3c7010c918086fa5820e7ce471732e8859f093a0a7",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-38-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "ca80c5c986872e492b8695a8452a8366e5178478892cf4d69d46115cefa58436",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-38@believe.borrowing:link-direction",
+      "kind": "judgment",
+      "fingerprint": "f1168a73e61a44e570dadd6fd59b9b8da39676c3e1597392b99a26c4d1bc4b54",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-39-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "99f0bd94e8eb9072818768c7f82759ed9c6aec512198ce57f4bc90998e3c393c",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-39-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "b26043c1ad784910e7d1d2b0e962424d152440007b1fc3d6d8cac4d91d20841d",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-39-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "9b7180dfac3cdc110fe5930c62ff1b6707304ebbe7b018fedbf7f5f625d33bd2",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-39-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "ca5703a6b824dbe6595c3a43fca18c733719bc96bc00c1657411afbbaf5a7c28",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-39@believe.voting-rules-eligible:link-direction",
+      "kind": "judgment",
+      "fingerprint": "2c5b209ce11c106f23d793039235ce0d1ad9732a0c010373586f7b84c0fd1d9e",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-3@believe.tax-share:link-direction",
+      "kind": "judgment",
+      "fingerprint": "a367fc8a360c5e8dbcbd8edce1378ddfbeff7a444127c38741755805d72008f0",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-4-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "7fa3629f8e1cf897e569d6d54a9b6d70a9bcabe3ed13614dd22469161e6e2414",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-4-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "28194cb0401c0ea155af7b7acaa74fb7d2e4d2e818ea9202a5bc2792669d6cd3",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "4cf726756c6a99d844cf59463b198bfa47af2162487bc04e9f8f17d89d99a73b",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "90018c43bbd44b7ab051a4133a5065bf8e8e4a6cad9945baf9e61551d1d4cb27",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "8cda8fd5f2427a13a7ed0f1268392f17c4c49c1aa7d9576d8dd1690da71c83f2",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "9dc53bf4b3325aa1c6d31238456406704a9f057338e4f2e6c41fe77898ba441c",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-5:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "ccb5d20c3ade2cdc2b85251da6b248fda5d6c147ebc3f8c334cf939ed2d8d0db",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40-claim-6:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "290ad88df669ae4fabc8f0e017263d1f0372421fd57b354aaee8872806260a00",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-40@believe.tax-share:link-direction",
+      "kind": "judgment",
+      "fingerprint": "04ce4c7d614d5378cdb610328ad704766bd79e14f57255fa2213d244f3cb316c",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-41-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "5dee1bc8caa040b0de5132eabbceb8d5a5565d871b912cf5bae5c6af9cd2363d",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-41-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "06ab441368adf753b78feb8a55b17d4699df22cd45dd4a787c07ac6948ae41fa",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-41-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "e513f05a0017c6283d5d4aa2016b0457d0c108663077e0cccacb716c2909e8c0",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-41-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "e16f4947fc88be8fc20b3e641ada3b3b858932b09c0b5b67d3d3f44e15386d11",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "c652957e4666a116e21c9a053d26b39e35d7d31394bc4d12852bec77d13623c8",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "0ef4f0a291310f1b301262eb4ee11586debc9ce3774f1ffe0a242dbb009a499a",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "782d5491f1808dcf26624c8b4330abb2ebdbb4b36836cb7a90d5363d8eb657d4",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "16658abab3c6d87d43fc9afce5dd8cbe4892e2b8fc3798f74cd952378c0fbbc2",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-5:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "76051b0d2563b33d3df57cef842c0a9fd5f5673ce3c7b36cd39a9fd8f60d3d81",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-42-claim-sms-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "1ad68549d9724d03f0fe15e69aed8f922a65aa4b4de9d6c4f264a0d813052918",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-43-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "f28de08d3cdc10d69a612681e27a8d74411f68754ada67015b4ac95c80d31fd9",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-43-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "96d1886c3d2895e38b4bd4da37eb5a08b3d6309d38e9a7662f1bb8e754606e0e",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-43-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "21cb6549b91c11288e94153121a1ac8f4aa1fd12b580c514035d05e1d1340a01",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-43-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "8a77cb3b7e3cc8fef9ca80adb59befd9cc7338a14fae0eebca4cbda12a751be6",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-43@believe.tax-threshold:link-direction",
+      "kind": "judgment",
+      "fingerprint": "1d01f3dff77f2afaa843051c7c70f763b64e667851fce082afd54a9f7047233b",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-44-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "dfcf5694bb1094feae64ab19a64f372c78f0b4f14e46011c1409889c73f7a8a4",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-44-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "28314b7683b25d6ec13a037adcaa80064c9a49d93e7429d97109da371f1427fb",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-44-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "b86c310fd1b2391df57eb01404d8a9135a7cd1a3b1f4d61d7214dacde500c255",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-44-claim-4:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "9cc9d4c360c5c6d3cf08e08055603d8b5d4ec1e0fa56c7512b55ddc3d43f1e65",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-45-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "06c098d0df8453aa4b0656d27c962367b598d37bbe41a63342876a26abf37a8c",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-45-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "ad96dc9f2079de36d2d1383eeabcc650706e18667cd4b6fa9a498f041ef15db3",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-45-claim-3:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "6bb2a3240dd37dbd12a71cf7a71621dc6be02c01af6df87153efff8d41cf48ec",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-45@believe.project-review:link-direction",
+      "kind": "judgment",
+      "fingerprint": "26cec9ad98476b4608a41095671daa2a0a1967517627b1e3aca02ae89b4e6b2c",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-4@believe.campaign-money:link-direction",
+      "kind": "judgment",
+      "fingerprint": "7df8a53e4274cb32bbc4dde0da2d2cad275b92861f9c472a3f5fe954cd9e5012",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-5-claim-1:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "c4d072be3fae22194229061ca96560f34410982e93f9c4b63e58aa1394e53796",
+      "supersedes": null
+    },
+    {
+      "id": "ca-prop-5-claim-2:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "53c266e75527ade6a5085d3ee752e97ec854130517dbca010753a3171f2d0a96",
+      "supersedes": null
+    },
+    {
+      "id": "hilton-climate:position-side",
+      "kind": "judgment",
+      "fingerprint": "dada4e45c34e7ee11cfbd2b54e17bac78283acae3c5f30b7ecbc869ce2250084",
+      "supersedes": null
+    },
+    {
+      "id": "hilton-schools:position-side",
+      "kind": "judgment",
+      "fingerprint": "fa951cccb048657a29dbebded0836f593abaa461a308c1c8a8a9bd82f4a2285f",
+      "supersedes": null
+    },
+    {
+      "id": "hilton-spending:position-side",
+      "kind": "judgment",
+      "fingerprint": "3d0e2f7cafcdb386bf1a951cafff68c10c12c7db9a0924d18d02a230fbf1107a",
+      "supersedes": null
+    },
+    {
+      "id": "hilton-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "d6954de01c66272b0664fd0e27c04b404c71e694a5abeb3ec8485ac79996d0e9",
+      "supersedes": null
+    },
+    {
+      "id": "hilton:inclusion",
+      "kind": "judgment",
+      "fingerprint": "4d08d87631b650fe9b8f2c8982c7b4ca617c0489cb3fd6160e2856227018e5b2",
+      "supersedes": null
+    },
+    {
+      "id": "kim-healthcare:position-side",
+      "kind": "judgment",
+      "fingerprint": "168ba87cfc6edcd0784cb6ed55e7ea0f81c94eb056952d825a49709d78041a30",
+      "supersedes": null
+    },
+    {
+      "id": "kim-insurance:position-side",
+      "kind": "judgment",
+      "fingerprint": "7a3137c0ccda2ec7d0bcbd00edc770604289c4411ee3e0d25074fc99227f1898",
+      "supersedes": null
+    },
+    {
+      "id": "kim:inclusion",
+      "kind": "judgment",
+      "fingerprint": "6d25b0b753da6039a7eae61559a9b8f4a36a08e81afef4488e6f7d11c5612121",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r14:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "b5470313cd9b177373a5db1768083989e32656254bf913dfa0e93c3610f9578d",
+      "supersedes": null
+    },
+    {
+      "id": "shaw-sports:position-side",
+      "kind": "judgment",
+      "fingerprint": "120ec4d821dbb07a78fda0af6e1cd2c32dc9e101904ec48802c6c2a6843baf50",
+      "supersedes": null
+    },
+    {
+      "id": "shaw:inclusion",
+      "kind": "judgment",
+      "fingerprint": "f675a71ed6b592b460f70b84f49fe0e330bbbfa7fca5c407f04f01dce7eddd2f",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "3b060bb847f43e1444a48447b12eb7206779552e720348b71c49cce60bf35e16",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "UxiFMDkvTHHpdz2JyeTEIJGcY48fU+6YlCt4tD+Ii1Wha0FJynAM8D+yLszJJR0G53uFcoWdEmyKCPiPdVWtDQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAPYlLt0/5NBZzR08zBwVVfS8APzw\nG9xUJeT8ef0K5MgYAAAAIDjK9wohtDalB0tK1SnKrYKHXc5aCme4i10Q/CTo/Bu4\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/6/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/6/opentimestamps.ots"
+    }
+  ]
+}
