@@ -1,5 +1,12 @@
 # Owner keys allowed to sign "owner approved" (OpenSSH allowed_signers format).
-# One line per hardware key, added at release (see integrity/README.md):
-# verify-required makes ssh-keygen -Y verify refuse a signature made without the PIN.
+#
+# The key below is an ECDSA P-256 key (ecdsa-sha2-nistp256) generated in the Secure Enclave
+# of the owner's Mac and used through Secretive. Its private half cannot be exported; Secretive
+# is set to ask for Touch ID before each signature. That setting lives on the Mac: an
+# ordinary ecdsa-sha2-nistp256 signature does not record it, so verification cannot check it.
+#
+# Option for a FIDO2 security key instead (see integrity/README.md): its line uses an sk- key
+# type and verify-required, which makes ssh-keygen -Y verify refuse a signature made without
+# the PIN. For example:
 # roded@macpire.com namespaces="ideology-integrity",verify-required sk-ssh-ed25519@openssh.com AAAA... roded@macpire.com
 roded@macpire.com namespaces="ideology-integrity" ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBKMadRGWfa6eQGHzDvYUC7NOBpiTNIWmiYDkIQLgh5T5MnAdxYIjkXF1gbRFLmuYy4Neq6YBTUGUO0ewjApjjdk= ideology-integrity@secretive
