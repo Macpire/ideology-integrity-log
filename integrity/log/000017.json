@@ -1,0 +1,629 @@
+{
+  "seq": 17,
+  "prev": "d8fd244105b7c7ebcc9f212a4e34107603b0e57d919f8bd679dc0332195fbdd9",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-04T17:28:45.781Z",
+  "records": [
+    {
+      "id": "il-amcha-yisrael-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "f72fbfb580d67a42b89bf49c4ca9fc875feef29cd1c02203be0b48cb45aa9b32",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "5f2ac54ea3d4f20ef8d051d0c80dfd8fe6cc3610d2257c019b4a5e4414beeb15",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "554a7d13d09f24d1fa888f1a517e1009ec20cb4e16dbb2587b5c1bac9d5c3223",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-judicial-review:position-side",
+      "kind": "judgment",
+      "fingerprint": "39f97773ba3a3c9842e1a230dec34e4ca420627ad77a7b4d55d5d1cd512303f0",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "c2cd042a05956fe5af636c57c747e78f369d5fe03baaede89fc8c3d98e9f6ba5",
+      "supersedes": null
+    },
+    {
+      "id": "il-amcha-yisrael:inclusion",
+      "kind": "judgment",
+      "fingerprint": "0960bae55017f32e4018c723d270f3f74a90f446f6d6c3066ca3aefea77650b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "afde16e117fdb0f2d875672333531a875dca2742a4cb7f727629a997768d0829",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "dc9541bdc680f0c64a692f0820f2fe5f2e1206899cd9f0991eca763f934fc57f",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-gaza-sequence:position-side",
+      "kind": "judgment",
+      "fingerprint": "080345d0fe689de4a52eac7696761b351caa87f7b189514751797c0ac938fa32",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "83302aac3988d261b7c06958f17854fe84f77dcdf611bf79dd23418cd2b1af5e",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "49d27396c83eaa6b71fe5f9d293a72e2e12ecc40c24c01f98c2669c02494eff3",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad-religion-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "136acbb7b160e310edee36dc206acb12d68a9c90615e1868144bbbc2c697c8ce",
+      "supersedes": null
+    },
+    {
+      "id": "il-beyachad:inclusion",
+      "kind": "judgment",
+      "fingerprint": "4f1f2392279bee061b7838e7648a284d7028f764e3328e4088bdf133ea8fb514",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-abbas-convicted",
+      "kind": "content",
+      "fingerprint": "7d1ff311e4866447d43065db0afe1facd2312be6745342dd252ef5105303fed6",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-abbas-convicted:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "90982bcc68405077d0aed9f52035e6813e2cdcfb118243d9ec66e07d3af94cd0",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-abbas-kabub-motive",
+      "kind": "content",
+      "fingerprint": "192d6d0f5c5470b9e5d849e1cff759989dad0f0d13edaee293d23dc41f257a3b",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-abbas-kabub-motive:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "9aeaffb97759121e75f964df338489f422dac775e163f959f0e5bca2e83f8a6f",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-bengvir-no-aid-now",
+      "kind": "content",
+      "fingerprint": "d07c2ba3c23fd08724cb7ad3477a2498b3729e3e8dba84409352dfb18b052b5b",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-bengvir-no-aid-now:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "1501746af003ef4a5cc4e7b09802a776862b0012d1c667b5f66659e17827352f",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-bengvir-recognition",
+      "kind": "content",
+      "fingerprint": "a875d03cb9b207224959e4572a6551d25b1c1e99b80cb214ca93de238c80d654",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-bengvir-recognition:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "62745f88d801c51f68927370bcc0c0ddfa33c2c908e80eb3455fbf16b81fac53",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-netanyahu-us-agreed:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "537435ddb3a2e9c030eb211431192a6eaf71f01f15f5b486ad121a3ab143a1b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-smotrich-dozens:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "4be69c9107e309060f2f640f781a08ba915b4b444d50ac42978aa406bb02f58f",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-yashar-never-supported:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "a5aa8ba36ad74cfb950f2653723ad8f167e174c8fc84a88140068f754ad84d35",
+      "supersedes": null
+    },
+    {
+      "id": "il-claim-yashar-only-statement:claim-verdict",
+      "kind": "judgment",
+      "fingerprint": "68c0cff030f2352fdd35c77966c5114c9c77218d59dfd58bd1902f3acc21981e",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-arab-equality:position-side",
+      "kind": "judgment",
+      "fingerprint": "9abbec458c36a593ee1c5d7af0d7f4772ebd270ba624dc59ab0d7aaca375d962",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "2bd477f6f1636b21dfc728f2b0543ef058c04bc797259b38177d0a22359dc145",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "93e949aa0a4ba46756af4a813b4259444d8cb050f971db45ee32e2d418e24de7",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-gaza-sequence:position-side",
+      "kind": "judgment",
+      "fingerprint": "dd76eac2bb77efd09b55d9c6c5833aea812506960ea6220a13d0194e928c5911",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "6b87efba41a1ea8b94dc4783d3222c0b88366e0a2c80d639dec3a315893dfbd6",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-judge-selection:position-side",
+      "kind": "judgment",
+      "fingerprint": "30e13aa137c6124abc8a62b2cb6a54a346c4a447e77dcf93bff3be88e6ff1c3e",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-normalization",
+      "kind": "content",
+      "fingerprint": "a4275d10d6f4d6860083a42e84ff6d55a0796d0e2c26a28fe754beaaffd7be81",
+      "supersedes": "89e4cf2bc4a02c31d3b864d685b80443eec22acb366f088dd22d4a02f6b53a23"
+    },
+    {
+      "id": "il-democrats-normalization:position-side",
+      "kind": "judgment",
+      "fingerprint": "ab16648fabdf69886f6de2e554d98a434bf0a2e4e12f191ff63fdd70b35e5262",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "8934961d498930945e07f5389c662718a630d22d0bdae8675ebd71d428b12025",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-palestinian-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "906b09c36c32dae50f7936c044daac79decbbcc2425f2b9fa06f42d9ecd0066a",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-religion-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "7cc1a55eeb49c5d9503f9358ca00ff06a9e9c4bf046a0ba27312fdc4b00ae9ff",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-settlements:position-side",
+      "kind": "judgment",
+      "fingerprint": "b0d60e74b85287043618b6af6d53899f85a6990150061dddc9fd1bbaf39494e4",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "4bec8827f2cdfb5a01a9d4b185afc0aab42504d342ea6a7a1ac222e65527c4cb",
+      "supersedes": null
+    },
+    {
+      "id": "il-democrats:inclusion",
+      "kind": "judgment",
+      "fingerprint": "d9f455cf7138607759d9e4c62378e778ed40b82e4c7b8229da3ee8893c6aaa0e",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-arab-equality:position-side",
+      "kind": "judgment",
+      "fingerprint": "7bba0e17ce3bf9fc32ab8a2754a47460d5f9b8c1545a983ee09db619af122fbc",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "f4dfcc34f21db944f9d94e4de271597ab217497b5dcd976b75c9104641e6d1f0",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list-palestinian-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "409ba127e3a24cb86ca104392fa460a56a7773a601d689ce883485af5c36d6e5",
+      "supersedes": null
+    },
+    {
+      "id": "il-joint-list:inclusion",
+      "kind": "judgment",
+      "fingerprint": "5fdaba691099906e984f5c192d1ba5bedef5446acfee02d0455ac7964ba7f54a",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "7165bfa5c6aa03dda776331a12213cbc1743aeeb6d2d9ee509c31c071c21dad7",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-gaza-sequence:position-side",
+      "kind": "judgment",
+      "fingerprint": "c7a379cdc53d10aa51554ebc199c6b722c190d93380fd4c19ce185a06fe32b63",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "e1007983f4688fc483903147c3fe9398e6c251c2092f81d4eaddfd7fc695b6b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "1da6530aa3c3b1a37553b3e6973c24d2e15957db3297afd5a581f45a629de704",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-palestinian-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "a42daab2949a4d78c85cc7f7638f142c68169afa52d75c02416cdc0543e4bd21",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-settlements:position-side",
+      "kind": "judgment",
+      "fingerprint": "e6199f43af30a3893b4de0f23e40a0410677998ae03840b188f3fe003c32a83c",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "dd0c629738a9a6ef3790d5a80efb85e6a997ed4f9930302c75ea2edd195e0bb8",
+      "supersedes": null
+    },
+    {
+      "id": "il-likud:inclusion",
+      "kind": "judgment",
+      "fingerprint": "a4a49887122f3f4297a04baee57287192abfde248e01662055dd62a9fa29eb07",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-gaza-aid",
+      "kind": "content",
+      "fingerprint": "9eee46ea57e629e4985e037947e44ffec1d053da95efed5c3a7c1f76c479c9ac",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-gaza-aid:position-side",
+      "kind": "judgment",
+      "fingerprint": "6bdf28b2ba66cfe30508915af4f7be051139b2edabe2337328654f25b9b817b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-gaza-governance",
+      "kind": "content",
+      "fingerprint": "84f7d776c706881e65ef9b3bcbf5d1528794aa35a70fe5f8891c32351d4dec06",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "3d86eccd826aaf34d0402700cbeed2fae1e2e5a9046d7f993f31bd81a8ec117a",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-palestinian-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "233abb0f56c49a3d3d305541cdbf98d9cd0767840617b1fca5637433b83816c5",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-settlements:position-side",
+      "kind": "judgment",
+      "fingerprint": "0e3e702aab290b8869966b25dc92f0a91759393ccef1075f849cb50434285b09",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-sovereignty",
+      "kind": "content",
+      "fingerprint": "b8488c4c9b0f190d4bceb544f671b31bcc7d7e4b1adb0002055d70f74292c383",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "3f245032373ebc2c688e9b2fb93138e7009e173725fc6dce5433d415354bf5a8",
+      "supersedes": null
+    },
+    {
+      "id": "il-otzma:inclusion",
+      "kind": "judgment",
+      "fingerprint": "d839a614b08768bb7d85ad90d9ab1576247652ca3ad523ee1495cbd0bfa120af",
+      "supersedes": null
+    },
+    {
+      "id": "il-raam-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "b6fa8de3efba6da315f8095bcb059b479a8b0797863b42163d8da6a971290122",
+      "supersedes": null
+    },
+    {
+      "id": "il-raam:inclusion",
+      "kind": "judgment",
+      "fingerprint": "374086792e07c02dab5b44f49c29e1ea79b93b88e3fe1c592acc274fc8434b42",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-gaza-aid:position-side",
+      "kind": "judgment",
+      "fingerprint": "4b8b61f15f84647eea5af6c0c32636a87f48a91696640fe30c21c7f04f93a294",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-gaza-governance",
+      "kind": "content",
+      "fingerprint": "b825ab73f27409f3e4962c5352e0cdaeba1c3470e9ee5997b890954d408d5589",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "a50aceaa46446e862f236fcee847f557762c33576c5f7acf7fc241024b53e679",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-judicial-review:position-side",
+      "kind": "judgment",
+      "fingerprint": "9129a5f601ac378f04be55f57116bf1a34e419ec29b151b02595269f557a64f5",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-settlements:position-side",
+      "kind": "judgment",
+      "fingerprint": "28fc2301518d2bcae3ccfcf692cf05cb8d366c6b203e68569ba115493d8dd7b1",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "ea786d260fb204e3331a9c2d4e88fd6d89da103807110298a0545d58cd4925e1",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp:inclusion",
+      "kind": "judgment",
+      "fingerprint": "8b22d0f8f4dfb7b3e3bf59c67f20e0ba8c25ac1770c31528294e1a9405db4d66",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "f787a53f97a366a3d53502a051aeae506c8ccabaf6db3facaad61b5bba0762de",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "4862bbf9e9e622fe3f4701cf4e0cf0a9d2b34366b33d886953a59e8a05cefbe7",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-judicial-review:position-side",
+      "kind": "judgment",
+      "fingerprint": "7c89f5dc7a793a53ac358fe75408d48aed73af221be611a7737d9d742ce5daf8",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-religion-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "c432e197af82445768fe91378751b49843ad19d714895f09fa58e0a898a6cc11",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "a002f2e233a893690596785a85f5ecbea35449bcd0e5ae0fc1ea69bb4a4c2f45",
+      "supersedes": null
+    },
+    {
+      "id": "il-shas:inclusion",
+      "kind": "judgment",
+      "fingerprint": "d2e4b7fb52d885e7a84b89bb8d4a9fbee71a9e914caea7f2a6c66b9ba85f8cf5",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "42bd92ef927f19f80a5392654a1db2a5ea791f3fc2eb0cd462966679d8eab4d7",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "43034f7167c0005eba9d56c1f62c4a7f369d396cfcb0d34c292a49e01c259006",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-religion-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "babaf9a6fc1407bace1e7c26837d0df0d3fffa060eef6fde5051af28f97b93d4",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "ab3e1557b20cc221e874d57b3ead2a155f746052afc4a5d9808cf8f5f29b8cc0",
+      "supersedes": null
+    },
+    {
+      "id": "il-utj:inclusion",
+      "kind": "judgment",
+      "fingerprint": "97367a1a876125398dd8c63145aa7c43d62ef13cb0ff5cb8c0c15ac80386e003",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "7ba960a59c205e07a59c51d240ad7e49ff2166ecb51dd83509f57a3e87646dc1",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "b1c3203728c6d1cac1b8f1e74844c692a027ec483406c58d9c1230fa9d48c9bc",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "4347b065d37a3c8131cda8dcaddf813176283442dab7a8db7ff8c6f2f80c226b",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar-palestinian-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "906e0d9b2cb9fe4b26cb6e9746bb5ff8795bd73f96fc333fbf5790ff368bf4a2",
+      "supersedes": null
+    },
+    {
+      "id": "il-yashar:inclusion",
+      "kind": "judgment",
+      "fingerprint": "4e701fcfcfada05e027350b7edfcf2ba3c67ef00652ba07dc046154ba92cff1b",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-arab-equality:position-side",
+      "kind": "judgment",
+      "fingerprint": "75e5c3fe528bcf548570d2b8fdb06d2d031cc20993fbd7a9571000fc5012b5bf",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "59a7a4f2ce50b8e95822638ee327f05235e45471119b69ae40a2710f5cc1ceb8",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-gaza-aid:position-side",
+      "kind": "judgment",
+      "fingerprint": "09ba6db72369ed9167173b6140a9a74ccec9564ae3600c0819efabd8d8104f11",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-gaza-governance:position-side",
+      "kind": "judgment",
+      "fingerprint": "2b1ac7939555158bde8bbfa04845f90116877042c237ffe28a9a018b51756088",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "e1b73fa9e725c90de9214107204be4c3e593fa037548538c4ae57e451a737be8",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-judicial-review:position-side",
+      "kind": "judgment",
+      "fingerprint": "1d720139d69a30fc7f0c108ee57e5d75739d02ad03d0c01e4257dccfdc0cf46c",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "281b0c49cbef42fbe531c42512158911369043b7661f121151308104a9916089",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu-religion-state:position-side",
+      "kind": "judgment",
+      "fingerprint": "75cb1498ca40c54dfe9656c9ba3b7d7af56c1a1d03512470ddaa890e1842deec",
+      "supersedes": null
+    },
+    {
+      "id": "il-yisrael-beytenu:inclusion",
+      "kind": "judgment",
+      "fingerprint": "eb1594fee70629235cd51d02118ffd52fdadd1f05673561658a7c942cbc45769",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r11:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "149fbe3fb85d28127098422b697268340e9b0e766e8a22f8dc69d373d5ce73fa",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r14:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "3b15110eadc31568cea37a3aac8b8167ece6732c288a780d5b1d73826b841fbe",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r15:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "f5af347dcdf1c4bc954f0e8a109ac242b269f6ee27c838fd086725494aa291f1",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r16:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "18bfb510cd5611e9dc37108888e4f8b312a4db3bc29b1c348482e13cfa6afe7c",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r17:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "a6f29cd42f2b8d66d9264b23c377543b2cd3bd42b9bd61f23006d0310e8f1861",
+      "supersedes": null
+    },
+    {
+      "id": "ledger.r18:source-acceptance",
+      "kind": "judgment",
+      "fingerprint": "a0059eff05af20fdaaa569f1fcb81d02ae3f7a8c325625ffc3409dcaf5d1da24",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "53c3d738fe5ecc51f34f4147264d9ad4829921bd182ccb185314ad79faf2a485",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "kRG2eAX3By8ctp8x+ThnMZoOBiEsa0IN5jraP50uP2eKuiJBOJinYsAW3+GB1weAyswYb4HuaKbDt//i+1BcDw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAOAgk/OMobNmvuP+pxjtL46mV31O\n0KZfvTYdsJ3RasqsAAAAICI/R4YhcLSl/I6iRfDf9qRiEXFQXMgYkuy1Ccyj5XdI\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/17/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/17/opentimestamps.ots"
+    }
+  ]
+}
