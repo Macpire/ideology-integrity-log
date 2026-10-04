@@ -1,0 +1,191 @@
+{
+  "seq": 14,
+  "prev": "b54325a0c885b9179537136723b911bd963e6fc439108e5dbf733b9520c9df28",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-04T16:39:23.903Z",
+  "records": [
+    {
+      "id": "believe.borrowing:framing",
+      "kind": "judgment",
+      "fingerprint": "b1d74ab6971d8c26e5493b065a921327ea40bc096cedb92e78da42cf91fce7e1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money:framing",
+      "kind": "judgment",
+      "fingerprint": "cc718f207ed817d7889841d2a01070fc55875082ef5fdfa745c879f918a39570",
+      "supersedes": null
+    },
+    {
+      "id": "believe.project-review:framing",
+      "kind": "judgment",
+      "fingerprint": "e01635eeda4296276598a6ffde33d6a5f090011c8c8a074503c60931bdbfc62a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.rainy-day:framing",
+      "kind": "judgment",
+      "fingerprint": "72d9f1d29da6cdb0bb2b8a159b34af45107e9aed945921b1f1818fcd0bda60fd",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share:framing",
+      "kind": "judgment",
+      "fingerprint": "24fd01438de701939fb9ce43057fa9042c8691c8d5ebe0574c79d053f758a5e3",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-threshold:framing",
+      "kind": "judgment",
+      "fingerprint": "c48892d76c2c7ebbdefd78dede078c62f96bcfb687b3594fac985a6d98aa9264",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible:framing",
+      "kind": "judgment",
+      "fingerprint": "7e3f9febcdf6ec67424bc1f8b633a17ac530c917108c9915c647de014f687479",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.abortion:framing",
+      "kind": "judgment",
+      "fingerprint": "ecf8539c61276e905dc42bfdc43f019e07894231f887ff1aea6e3db4abf3937e",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.energy:framing",
+      "kind": "judgment",
+      "fingerprint": "368b28af2da7591d593e76d0f321240528388d242dcd3a3c66453736738795e6",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.insurance:framing",
+      "kind": "judgment",
+      "fingerprint": "475d402d4deab2ae12171f39a5eade58672d98f1471d370dd44aff4e69ca2425",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-1:framing",
+      "kind": "judgment",
+      "fingerprint": "f7da1ae43900e52f52fc78ff5dbcc3630def552f1e0438d95f6127aaf4c97ffe",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-2:framing",
+      "kind": "judgment",
+      "fingerprint": "5977fd8d8664a559b8c1a54f765b15ab3b6eb4fc36a67329a331c08547aca453",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-37:framing",
+      "kind": "judgment",
+      "fingerprint": "c6af8bb9823dc49572b5266f6255a27870c8fec646cd74ebc21b4204160529b7",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-38:framing",
+      "kind": "judgment",
+      "fingerprint": "ad8f3102cdd147a450196958532508f50b41c9de409b14fad184452e02cd2b33",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-39:framing",
+      "kind": "judgment",
+      "fingerprint": "6bce9461700eaf8388410c5e041b92212c5c74f33d78ae86884d23284f33c2be",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-3:framing",
+      "kind": "judgment",
+      "fingerprint": "6f2badd50c93f93a37d1340ddda3f63122af4c95c26c2e8923706a64564a0929",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-40:framing",
+      "kind": "judgment",
+      "fingerprint": "2e6ef9530581403cc24374f1ebd53e62fb60c18767288597ff0daddf7842a5b9",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-41:framing",
+      "kind": "judgment",
+      "fingerprint": "0865a43cc718a083ba4a36ceca41f2c0dde6d154101b0b9bafaf16b6a917e358",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-42:framing",
+      "kind": "judgment",
+      "fingerprint": "89480d469044b9b51dad3cd0df308edd8ef57dc6c2035b7b44adc250de9147bf",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-43:framing",
+      "kind": "judgment",
+      "fingerprint": "4a61699ea61ec333fbabbdaf9b39ed414f556161ec76908451e81a7447360efb",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-44:framing",
+      "kind": "judgment",
+      "fingerprint": "053f039840929c4533fa5f31490efa6342b9e59c71c10edf17210f6c573bf954",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-45:framing",
+      "kind": "judgment",
+      "fingerprint": "12e1208c2233ecd820d91c2aa4dadf5ba6c8522db6c29ea4ca48310d8b999b0a",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-4:framing",
+      "kind": "judgment",
+      "fingerprint": "5eac738b35f9671a1a7edad410d29fc4d41397ff894f6af0e4a877bf8cc3cc9a",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.prop-5:framing",
+      "kind": "judgment",
+      "fingerprint": "79c142d33c72232bcafb367b5736152b6a256471b9e3233f88b221aafb885c69",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.schools:framing",
+      "kind": "judgment",
+      "fingerprint": "432419e4b6c4259e111158386fa496e32417965e445488c53e34bec86a13420b",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.sports:framing",
+      "kind": "judgment",
+      "fingerprint": "82b9491f8f39b030bdca7ea32894de3a40bed4b8d940ff253473ab87eb0dc18b",
+      "supersedes": null
+    },
+    {
+      "id": "ca-2026.want.tax:framing",
+      "kind": "judgment",
+      "fingerprint": "37d9ead20a0cf4398303344a24842e732a33909a056a1262ad59415abf2a3605",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "a829ab28a43927d8a3238ce4d3df6757f0bfb07064cbfebc0ce508165f1fe464",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "aie6R6X4S22Evm+yNfzK3/0qlRwrjlfScsH5kIemDV1O7pOnueYLcql+lmCUsEx491ajkWGtQ37/7HCIRt1JCw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgBYPyLdgMCmHFm8oauSkI2frJYHm6\nGJgAumkDccETyRIAAAAgGVzAP8qSvjqp2OwSCzKa6F/7CN1aYdNME6zGlqreYdI=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/14/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/14/opentimestamps.ots"
+    }
+  ]
+}

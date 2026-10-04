@@ -1,0 +1,149 @@
+{
+  "seq": 15,
+  "prev": "4e1432793a69f219c12753f1644e4c44822e13d3c9f777ecaafc435481c13e5a",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-04T16:39:23.903Z",
+  "records": [
+    {
+      "id": "believe.courts-final-say:framing",
+      "kind": "judgment",
+      "fingerprint": "b7cc547b67ea9ef6c2a7cfc7cef2777cc4b6d421f6cd62998e8500a88a72fb23",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state:framing",
+      "kind": "judgment",
+      "fingerprint": "ffa4d46759c52c6d3264ffe2b7da545760e8124c3cf6fee31d466c59bfa8f55d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state:framing",
+      "kind": "judgment",
+      "fingerprint": "e15d24d5deaa35108fe04dd1af45c0647e08020efa65789301fa706d45cb2860",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control:framing",
+      "kind": "judgment",
+      "fingerprint": "35c10fc1b1e10cb16d5c8c3b3c05ae0b080150afa47628bfed2c56d9eef77ea2",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage:framing",
+      "kind": "judgment",
+      "fingerprint": "2417510c03ea7892144347a25133544b2476a8b7a4cc6fd81f092830a47871a6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living:framing",
+      "kind": "judgment",
+      "fingerprint": "dace69ea859e77b0ef9a4d1d83cc9358d790ccaf941dddeb695cccbab6fa4bf9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid:framing",
+      "kind": "judgment",
+      "fingerprint": "76a8f0d6c3740c798fee5721d8b21727ddf850184efa3a8252c16e18351a680c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance:framing",
+      "kind": "judgment",
+      "fingerprint": "b18346555a0904e8cb3f1a32dbf7fc23e4c7de0e23e4e130a312b5d67194667e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence:framing",
+      "kind": "judgment",
+      "fingerprint": "b76c5abdeb2507f23a4f0bd68d429d2e15b469132c2853f8961fa6e563b1af5f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft:framing",
+      "kind": "judgment",
+      "fingerprint": "9a623c1f55a9b6854470854db72efceb83b2b630c160033299bb4c3ab632eb00",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts:framing",
+      "kind": "judgment",
+      "fingerprint": "dd0f55bdad2b691927d6161d4dfa364b731d9374e1f53fe873813466d77420cb",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran:framing",
+      "kind": "judgment",
+      "fingerprint": "675671b0c136b564f727c0febf06095d8818ad7b9691555ba015d3058d8b1ac2",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection:framing",
+      "kind": "judgment",
+      "fingerprint": "d2e987148f4c32ef4e5c7dd79494e7669469c6d8baa44acff5cdd376cdf8bb6c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut:framing",
+      "kind": "judgment",
+      "fingerprint": "09343604025669ad00aaaf5ea274d0d5010963fed77ce327a027f3822bde4c7d",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality:framing",
+      "kind": "judgment",
+      "fingerprint": "f66c117b0d8f427a44b5c8aaa85b390861d6b746e4403c24909ce2512d76457d",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization:framing",
+      "kind": "judgment",
+      "fingerprint": "d209a0abb88a719630ee8238072e22f8547afc11fec58fc1ea2ad29f364eefb1",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry:framing",
+      "kind": "judgment",
+      "fingerprint": "1950567b7dd3dd8c4e02d012e0c37dc87ab26b9b046d70388aad69e9db8321b5",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements:framing",
+      "kind": "judgment",
+      "fingerprint": "516e0d5f17cc0bf5097e35cba4245166129606b37213e7f7290dbac28ef6d1e5",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport:framing",
+      "kind": "judgment",
+      "fingerprint": "3af87768d4a530b01e65fe5072d0a8bb939d73f36c012ec94355adea604b8495",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty:framing",
+      "kind": "judgment",
+      "fingerprint": "26758fcfe9e3b725ce286e571c0c70bbfb35978914d96db9cc1101f2fee44aa3",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "d40205c03ee198a90d7486ef90affdaa6a8729519816aac6e5ba5b11afa67a08",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "HINqLxl1OfjEK6FLQ7DkG2IWHbtj7BIeEFSMcwvVFbVyMm4LiP7r8SQma1zP2idkUxVyl9EFDPyVxTYlhoiRBA=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAgH+hq5PzssB8z3jTy8A2Qt4Nrrjbn\n619nKGjTER78cY4AAAAhAIskcc76o2SCGpirdtECNB//O8dHo+RVEPvopEVtm7U2\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/15/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/15/opentimestamps.ots"
+    }
+  ]
+}

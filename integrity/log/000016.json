@@ -1,0 +1,143 @@
+{
+  "seq": 16,
+  "prev": "84ba9b421b37c3ec37781f8a7dc32ea56b818d422521e405332db9dabcfbdd4b",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-04T16:39:23.903Z",
+  "records": [
+    {
+      "id": "believe.campaign-money:framing",
+      "kind": "judgment",
+      "fingerprint": "cc718f207ed817d7889841d2a01070fc55875082ef5fdfa745c879f918a39570",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state:framing",
+      "kind": "judgment",
+      "fingerprint": "ffa4d46759c52c6d3264ffe2b7da545760e8124c3cf6fee31d466c59bfa8f55d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national:framing",
+      "kind": "judgment",
+      "fingerprint": "338c2d393642a4cfefc832ba278872eae573799ab76ac6c111ae0099af8bc2f3",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible:framing",
+      "kind": "judgment",
+      "fingerprint": "7e3f9febcdf6ec67424bc1f8b633a17ac530c917108c9915c647de014f687479",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.abortion-legality:framing",
+      "kind": "judgment",
+      "fingerprint": "312bd86fb245f6e4174c3352ef1dcdf6dcf669dbe08138b507dd3d3e61985969",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.college:framing",
+      "kind": "judgment",
+      "fingerprint": "e4019b11b1af3a889b0a3c3695688b5f8a587e9597f6194e5ffca0cb696ba45b",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.energy:framing",
+      "kind": "judgment",
+      "fingerprint": "f3432690d142da80b7ae638ac94f5fbefea2d103a26747a3cab6ef967656035b",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.gun-limits:framing",
+      "kind": "judgment",
+      "fingerprint": "dbd20434270db2a0177f4ef4665284438652d66e5fd2862aceb4bc60ed4969b9",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.health:framing",
+      "kind": "judgment",
+      "fingerprint": "7f6393029471ea299d2ba092c8f0370748480bd7c80ac159198da14f23b9191b",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.immigration:framing",
+      "kind": "judgment",
+      "fingerprint": "bf2bb1c8181482815a45e5b2a2655bb71c6c1b22ded5345f11180f71bfc0a8a1",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.israel-ally:framing",
+      "kind": "judgment",
+      "fingerprint": "fb6e9acb3b3137ad1480af36f4aa9ca05da24d1d3a2b1f28f121cec9574db8e8",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.military-size:framing",
+      "kind": "judgment",
+      "fingerprint": "1b6db82da5bf84a44dffb5d7c0ab0295faddc7c2ac4475a75322e22351673ef0",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.retirement:framing",
+      "kind": "judgment",
+      "fingerprint": "b733c3fb98e02399a3b540f3334bc9ff784788cd3dce0002320608555b6472a2",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.schools:framing",
+      "kind": "judgment",
+      "fingerprint": "70975b35c42d2d784dd23453c6502acb399f5895eca15286ff5945c1374e8c5b",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.speech:framing",
+      "kind": "judgment",
+      "fingerprint": "20618b08101b401c8762d06bc5cd439c5a24149b1c52d790e1821f9bd7f8c783",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.spending:framing",
+      "kind": "judgment",
+      "fingerprint": "6c18b05967c27f2a0c2aa79882e625bdf330b97d810289e951f510a5a006f274",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.sports:framing",
+      "kind": "judgment",
+      "fingerprint": "d1c15a19e7a1fd25a64d28bb7ad79acce983551b9a4152663b2a8ce59dc3ec7c",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.tariff-level:framing",
+      "kind": "judgment",
+      "fingerprint": "e278c6ea0179c9bd711ee22f34159ed85222284febc6087912b1be2785beb138",
+      "supersedes": null
+    },
+    {
+      "id": "us-midterm-2026.want.tax:framing",
+      "kind": "judgment",
+      "fingerprint": "e06c6a8eb7fa26eeff7efac732c53312e5d09bfd9c8951881b7526e62763efb1",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "6e95562e6d2f8ac7939d57c532aeecdd0f5eaffbcd892d1a5f8d78d8a37a242e",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "hCcoMeZOp3lSTjnaQz0iBcQqAZL0sIKkBIpF2YG3HIav+4q9ndUkOFVUxyuvzyUz8Q2OCHAMPqMU3oaZZeGSAw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nUAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEoAAAAhAK/3b/yfYi+LuId9rAvND4tU7/18\nEsIjJQ2LGXtnZb7cAAAAIQDXKbxASQQFmIQb3NAW4NR6U4qT4xJfc+MEL/4A/Jh9WQ==\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/16/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/16/opentimestamps.ots"
+    }
+  ]
+}
