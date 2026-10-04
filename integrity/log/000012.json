@@ -1,0 +1,149 @@
+{
+  "seq": 12,
+  "prev": "0da296648ab9a4ec72f05f57a59811e1f626e037581f2e942367f1ffdbb6b8e6",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-04T01:25:24.224Z",
+  "records": [
+    {
+      "id": "il-amcha-yisrael",
+      "kind": "content",
+      "fingerprint": "58ad8578b39f772a026ef07377a40b0904cfa45b2ddf75ae2a0b42d694a71727",
+      "supersedes": "28e59fa18e39359941afb84523a4b2dbab2d40f57a2ff12636466023bcbed45a"
+    },
+    {
+      "id": "il-amcha-yisrael-haredi-draft",
+      "kind": "content",
+      "fingerprint": "cac33520206d598f301f443491a622f99a4217ac4b09fdb183c8150f2f7b5672",
+      "supersedes": "076e11b3811a290a551d97b73d55a97fb1563a028cf9db6df1f620773275123c"
+    },
+    {
+      "id": "il-amcha-yisrael-judicial-review",
+      "kind": "content",
+      "fingerprint": "6aad7ce90cabf671519fcd4f694e542afd29f2748b1f42ecfaa22c30ab844480",
+      "supersedes": "03a635895d12ba75f617b946956f8768015935cb37f4e998a94c449dae1d12e3"
+    },
+    {
+      "id": "il-beyachad",
+      "kind": "content",
+      "fingerprint": "f834a9d4c1e73b186188983b2b9f7a61859665028377f5504083f3192a7d3e29",
+      "supersedes": "5f074e7d1a519af213268cbef6f292008f7b28494a3653c318d02adfcc1b35f5"
+    },
+    {
+      "id": "il-claim-netanyahu-us-agreed",
+      "kind": "content",
+      "fingerprint": "a49b541e5a77c2bfed591e615a0145e1086833bededc80f8fe9cc23d5f2c697d",
+      "supersedes": "863ef7b19a6a8b03fff73c02a752f2425df8142df15caa3f48a4836d268b16f8"
+    },
+    {
+      "id": "il-claim-smotrich-dozens",
+      "kind": "content",
+      "fingerprint": "ea54eae82ffd7dcff8040c258ce23fadc984e274756398a6aaf61a50f5435eb2",
+      "supersedes": "9a9347a9cdf3a58a44f928e3ebb263228887d2f54298a25f607cc7167db5ee4d"
+    },
+    {
+      "id": "il-democrats",
+      "kind": "content",
+      "fingerprint": "0e0a41d2f76b4350870f5061c2d2bb84dcf1ed18884c094eb4c83d5e7dcc803d",
+      "supersedes": "ff05cf157977bc3c8c74a27c48aee2ccbb52fe28a84cce06047995da895f45f1"
+    },
+    {
+      "id": "il-joint-list",
+      "kind": "content",
+      "fingerprint": "ce5e01388f7e778051e3bc06e5d62e170d9d02d6c155f2b1e3b16db257903b9f",
+      "supersedes": "7a8b01b5fed063eb2fcf8b0045f8f0718a412447a21ff98ad066e3022e49319b"
+    },
+    {
+      "id": "il-likud",
+      "kind": "content",
+      "fingerprint": "751fc667d830ca6bbf26a4e3ad292001ae6d264bfd93253b64bc55f9ea8c0820",
+      "supersedes": "d75790206931ec3d057ecbaa14defa37051fcb975df6cb2aba0c8465927ce672"
+    },
+    {
+      "id": "il-likud-gaza-sequence",
+      "kind": "content",
+      "fingerprint": "faf497978c349f763db4ae8960dc4b0328b37c776bff50361beed42a7323fabc",
+      "supersedes": "4659754dc1c82b0b80b28f6edda4b6b6817401fee2f520bab7c7fca50567cebe"
+    },
+    {
+      "id": "il-likud-haredi-draft",
+      "kind": "content",
+      "fingerprint": "02e12eaf1bf30b7a7fdeb1d13393dcab508167f48b931a459e2d4f0cdc83bcdd",
+      "supersedes": "971240428229354c6964ce574238b1317715d4280a53c5f418ee6deafb1da7ec"
+    },
+    {
+      "id": "il-likud-palestinian-state",
+      "kind": "content",
+      "fingerprint": "8a64e83831796804b12327f70f45a85e33d6b7bfb3e54d2881b93db78221252f",
+      "supersedes": "f5d223219eef2f5110145956b23cbf5321f36323bff5e9b5edfa10f592b612ca"
+    },
+    {
+      "id": "il-otzma",
+      "kind": "content",
+      "fingerprint": "cd0492791ae7ad361b9d99fb6c84d3a2965d5c06092fcf75b7bde754db5a8186",
+      "supersedes": "23c0776173856fb1969f7a64d66c05cb99d6b3ce64deeab936d03ded142eec28"
+    },
+    {
+      "id": "il-raam",
+      "kind": "content",
+      "fingerprint": "49b56160eb91403810060482e9beade71727f69e74677ab116a703b738d217ed",
+      "supersedes": "89184af40251b19777a1fc9b6500dbb07e3cbc22995bbb8c4415bdbf65869574"
+    },
+    {
+      "id": "il-rzp",
+      "kind": "content",
+      "fingerprint": "aae3a1d6960e8eedcb45affd25d9890674c3a1bc3918e0d8ed746b92a467689e",
+      "supersedes": "3be485487ae6c0e91a31fb09cc98500264b41edf59459db85e26dfa2784709c6"
+    },
+    {
+      "id": "il-rzp-settlements",
+      "kind": "content",
+      "fingerprint": "cf9d93dcaf268599144068df5130816e0c233b14ba549bcaee6e3391b8ddab5f",
+      "supersedes": "59e3da73afbe44e753435a05dc9d467111c66709770bf05fa7cb0ba34950898a"
+    },
+    {
+      "id": "il-shas",
+      "kind": "content",
+      "fingerprint": "7f13060f5cf0104bd1e4719a4cb9998478186611252045adb7a8cba67d6560cd",
+      "supersedes": "5d5b3293e7430e6fda54020324448f71fb4cb9d691ae92d3208c603971182153"
+    },
+    {
+      "id": "il-utj",
+      "kind": "content",
+      "fingerprint": "c0088a7bea8b1298742b46f6d3a569425a3ba2576250aa07f357183ba4d6a4b4",
+      "supersedes": "de6cbd522d189f12aa86794ca046c54acf735c2a3373fa63d34ad030da6bd987"
+    },
+    {
+      "id": "il-yashar",
+      "kind": "content",
+      "fingerprint": "252f66e6ad499376baa4de58062bd06948e1483ec204e14cd9d0863bda8b8fa2",
+      "supersedes": "46e9b8481d3890cdbf15666e969909814ecd29c93023788057c709ed31e1f84a"
+    },
+    {
+      "id": "il-yisrael-beytenu",
+      "kind": "content",
+      "fingerprint": "d1dfc6896e431d5cc217264f3910b1bb2158d9494b1d10ec4aa8c95b0d4d3193",
+      "supersedes": "d0d66ced11d61725d69cf0e15df8e9436bf1027ea030343d0b60d8bf38d41f51"
+    }
+  ],
+  "merkleRoot": "8611291a8f306583e5fc4860a232b00fc25718ac52017fc1aa023b42a3c3833d",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "Ww0NCpqddVD1LQEzV3kGS1Ai2pttCXEgaL/qwc4DhmAX8EdDWLzcNXMsz8/Jx8bBj0NjoxCeR3mZLwcmGsU5Bw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgcFQUEGa5/JC1itw67wBEJKJYydnH\nDqpw+etBQZgARW0AAAAgVGczD8OIDNYfGYpHUdjCU0HT27oRs3OJ8DSEBKp+6Fo=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/12/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/12/opentimestamps.ots"
+    }
+  ]
+}

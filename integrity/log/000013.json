@@ -1,0 +1,113 @@
+{
+  "seq": 13,
+  "prev": "d37ca1b1c9b16c7148258f5425ca13f3cb4d4253f3914f4bc6322a4aab0531e9",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-04T01:25:24.224Z",
+  "records": [
+    {
+      "id": "us-dem-abortion",
+      "kind": "content",
+      "fingerprint": "b095b63e1f615740724e7e4404041f00e2104bbced43ef908f60456a2c21ad2a",
+      "supersedes": "d9a1b41abfadffb7d2b8c88b4b567768c5cf0cb92b19ed0b4e5b20db27b8317f"
+    },
+    {
+      "id": "us-dem-abortion:position-side",
+      "kind": "judgment",
+      "fingerprint": "16531c4336b943351d93910a5ed76c95b7a80a5a4bc88ba492b4ff0c131609ed",
+      "supersedes": "1bbc1714640af9466c319adf554a23e0d567473baa0befa33d44a58c79fa0d53"
+    },
+    {
+      "id": "us-dem-guns",
+      "kind": "content",
+      "fingerprint": "a0d385b564a546208020d0004e42527bae18fa5489dee805476bccb5774c73ed",
+      "supersedes": "3ddeadb311e3fe7ae57e3d67956dd0627ad70eb928ef3515b2af85b300b098d0"
+    },
+    {
+      "id": "us-dem-guns:position-side",
+      "kind": "judgment",
+      "fingerprint": "05a45dc8a1d4efd62551806566e30476e96bea477a06df417206709c5e17d0e1",
+      "supersedes": "800555d3654246120fecc4ff71d6b8f7c0b3aa4aae5c0f676dd0e6ebfe947646"
+    },
+    {
+      "id": "us-dem-trade",
+      "kind": "content",
+      "fingerprint": "0e1d68eee04df10833cf4434396cececfa5929030348e43ab4c89cbd8b266296",
+      "supersedes": "3a0497807b192b56110aa771945af2c1ba06e2fd49c2777a9bfb781ecc167481"
+    },
+    {
+      "id": "us-dem-trade:position-side",
+      "kind": "judgment",
+      "fingerprint": "3a8bba760fa84c10e557238f61380bc5727fdd30aa5c167c194313b77f303040",
+      "supersedes": "4c152d42dfd97349fcb18026f0e7b8f332c142d3ba6050171798521da1f82712"
+    },
+    {
+      "id": "us-gop-abortion",
+      "kind": "content",
+      "fingerprint": "3d99f3174d122ab193fc0b47fef09d8e839f7e355b8e757b2d89ea9b3ff86d87",
+      "supersedes": "e807757101e79717d5e860008d1c03da27f1e85ef07c30c38344e72885333de9"
+    },
+    {
+      "id": "us-gop-abortion:position-side",
+      "kind": "judgment",
+      "fingerprint": "ee4b3636b24073ddb7620d41a5fd86be684bf674c9f16c8115da9390a5cd7758",
+      "supersedes": "888a80096e38db44a61633af011e84a41d9a18fb4dd74673b7f050388628552c"
+    },
+    {
+      "id": "us-gop-guns",
+      "kind": "content",
+      "fingerprint": "b21de72f13a0721d427dc33fb3e84607fa3e34fd8f79f7e4be04b667eea9ac25",
+      "supersedes": "620dc361adebe2d76b90cd010d51100ba923dd5b92f8228694ea7b2defc78c43"
+    },
+    {
+      "id": "us-gop-guns:position-side",
+      "kind": "judgment",
+      "fingerprint": "a3b12ec9ee7acf0becfbc66ee1ec85d27835148ee653b91503632086c9b26992",
+      "supersedes": "557d6dd58213323a67b8032ed2bf07cad416137298ff3976b5d24c6d94f7ec02"
+    },
+    {
+      "id": "us-gop-military",
+      "kind": "content",
+      "fingerprint": "7b4bb6044f27357512e6e430539fb0f745352dc0bf363d1667962c35099e64f0",
+      "supersedes": "dad2ca02a14e40abdba603bb67632b0952421f9106339faf7bca7d09344c4f7b"
+    },
+    {
+      "id": "us-gop-military:position-side",
+      "kind": "judgment",
+      "fingerprint": "556320e1643f5567ee6af0456f804e51fe34f0534f1db84667be2f7e05e46b4b",
+      "supersedes": "3e61cff6b0b96fa0802a1b5e2c467b80af910ccfd4dea3fa57d83e4679c1eec0"
+    },
+    {
+      "id": "us-gop-trade",
+      "kind": "content",
+      "fingerprint": "c20fffa1a9f608db9c059b047c734605604b25f51848aae9b5fd30337d02c0ee",
+      "supersedes": "702f3189bfb564a9b71cba262bf2ebf7c3a1e871cbf2e15e15fd4b8dfc2c72f1"
+    },
+    {
+      "id": "us-gop-trade:position-side",
+      "kind": "judgment",
+      "fingerprint": "a609baa913de7721189d00ad001f5c69da9c16570f4666047b6f762643199ceb",
+      "supersedes": "d43f5063cf76f9607523e3f482398187eef1c9a5a31b324fb524a7d6bd125643"
+    }
+  ],
+  "merkleRoot": "291336c08daf52da19d7240698376a626a797eaefcf825173301528757d88ee4",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "03rnZnduUkitUUNQsmxPQcak/hOpStVz45qAxPgmxhBibv8eS3tfmkTFbx64oj0KGSYAKjJWyz3RWuXN0qsbDg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgLBiCwDnM3ZLazRbHfmKMCpB5B2Aa\nB8n4Zh9n7wiAgswAAAAgObAFUwieogN1/B3/aZhXMe0lC5/pF3JOCxTGsDC/9x4=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/13/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/13/opentimestamps.ots"
+    }
+  ]
+}
