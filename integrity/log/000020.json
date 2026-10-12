@@ -1,0 +1,1001 @@
+{
+  "seq": 20,
+  "prev": "e0ac78cbf4c09c7366f11e68227a120623710dbd860731cc36c66dde7d3e93ed",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-12T13:13:26.080Z",
+  "records": [
+    {
+      "id": "il-knesset-2026.want.civil-marriage.fact.marriages-2023",
+      "kind": "content",
+      "fingerprint": "0ba511a0ee78951c3d09a39c953f7bd12d21a8a6093fc973fb05c1959ce224c7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.fact.rabbinical-courts-law",
+      "kind": "content",
+      "fingerprint": "f542b7fb71b64ef10693ef69bb0a00576fd149c59b0fd03db1d66480a7867bcd",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.fact.utah-marriages-ruling",
+      "kind": "content",
+      "fingerprint": "15edaf2a0f362dd035fe2be83c86d1f7e44ee3ba07b79f52936fa32921ec88dc",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.eliyahu",
+      "kind": "content",
+      "fingerprint": "22ddf93c2602778a45d24a121a8def4dfeb0995f340dbd8838199205a09bdeba",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.eliyahu:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "d12ba2f88c9127a21ed5f63c066e5917196046a01d8be337cd88ef468f11aee3",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.halperin-kaddari",
+      "kind": "content",
+      "fingerprint": "93a178e9785fabc14235c2eef25b9293f91cfefd663d2cb93b056edb1fdf326b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.halperin-kaddari:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "1e3daacdfecf5a23911a08950030b9947c05981d82b31fb2993a58e839daa6a8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.regev",
+      "kind": "content",
+      "fingerprint": "ac1974cf9f5a0a7293c170759fcb4a63054d216e56be552f0708dfea85b1a784",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.regev:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "3c74b6e0c42d3fd96432fa13afafb807a90c0c9f6cb1251630de5a5dc3c6af7f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.stern",
+      "kind": "content",
+      "fingerprint": "d2a79beaa698c8911e157c46ab02d2cc5e4fb57843439fd6a29ce54ba1f79024",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.civil-marriage.voice.stern:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "64f6ee67a02e7fe9ae9650a4228c809e9f3de1b3e8fa6492c1c67b9e5da766b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.fact.food-price-control-today",
+      "kind": "content",
+      "fingerprint": "f91e7c30801f58d7ade5f8310343432ca753b8de6bb99720c1cecb47cdc1050f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.fact.oecd-price-level",
+      "kind": "content",
+      "fingerprint": "eacfb477c2d3f41ecc7a7df3316fb376c9efb688091a413212f1fd0a03a0570b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.goldstein",
+      "kind": "content",
+      "fingerprint": "28fcbfb676145be07b4ef3587254bc7d723541d3614833c5bdcc56ba29ea51cd",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.goldstein:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "9241f019e0233b952f9ae62ba239b8e9945c217795ee0d8cb5277d00e1c739cc",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.ofek-shanny",
+      "kind": "content",
+      "fingerprint": "18e7cd4c753665428a5a2ecc73f4cc66d83bf826aa1fd73b9eeb9c2538703f2b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.ofek-shanny:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "50e85d9ded7f34a733f2e333344a0dbc74f59126462a40457595b2d497980441",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.rakover",
+      "kind": "content",
+      "fingerprint": "d27bffc88b0d21ecf194b58b20b71e6b2f30a141ef58370e8baefaf30501ea50",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.rakover:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5c851a7a84c3dd69e777e8b91831439d182236d26a854d72d6fa7b1b2f1dc4b9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.sarel",
+      "kind": "content",
+      "fingerprint": "c913baeed1a275064f4b83e27fc139f0729677d52985b31ba004ac87993a0323",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.cost-of-living.voice.sarel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "11b9fc99255c454b5aea56a03ea2b590889f858730e27f01e5a9103cd3dabd31",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.fact.icj-order",
+      "kind": "content",
+      "fingerprint": "e88bb26be2a8a09f2ab6e621d8967537c577834736cf0629ec7efa878c396747",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.fact.res-2803-aid",
+      "kind": "content",
+      "fingerprint": "db87d59de08c84cf4c47f810dddd304dbeb9a81e894a8eac6abf1be8106a77d0",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.benvenisti",
+      "kind": "content",
+      "fingerprint": "5073d6f287bf620a6f65468af0824bc274ed7d8c5792b3bd5f455d70b174fa8b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.benvenisti:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b6115e03320b89f1b7ab737643e35aa7d3664d1ddec994bd58dbcaaeef73b76b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.egeland",
+      "kind": "content",
+      "fingerprint": "f99fccdf10b242ece8d883e87bcd80a9e989d75e95f43d24afe03fba4f819006",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.egeland:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "335d55f1d3b592a0ec0cc4b5000e3f73dcf01c0c134f20b73ddc92abad3ff8f5",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.eiland",
+      "kind": "content",
+      "fingerprint": "8caba6571d19684222fc6ed36c4a4e6801c602379e11b4125e8681ac70ef0a36",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.eiland:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "4ed87c1f3bd1f0b8c28b5bffe6e7fed84013c1976aa15068962a6ab48ec1e336",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.shalev",
+      "kind": "content",
+      "fingerprint": "f73219097ff0da44d5643ce51e276375d9e7cd622ed85b0fcc847dfac5f7f816",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-aid.voice.shalev:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "ad4411d5c92c2ec89a717b85784671831f9c8773375e3468f4be560eca0d8aa6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.fact.hamas-2007",
+      "kind": "content",
+      "fingerprint": "9e8c98c19b10e8ad7233d58b6d906ba22d9df414d12660cfbf7de52dfe2726c6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.fact.res-2803-pa",
+      "kind": "content",
+      "fingerprint": "901175bfcaec9fc9d57f412881d41047ae7632f0377a8fa36bd530293d6b5f25",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.efron-makovsky",
+      "kind": "content",
+      "fingerprint": "20da368d1aeed484622cdfced551abe83584c16a6597bef3fdef93fc1ce546be",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.efron-makovsky:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a90755f7c268d259e37fc3a449634793d1d5658c7d846eae2cfc5c18a80e4796",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.hayman",
+      "kind": "content",
+      "fingerprint": "c10695cad38ce3e3846e74a27f155999dd49699ccb0fb2d899f7827ccae5dffc",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.hayman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "eff0462f645c9492710c0d3d9aeb9534ca0bc9d5efd8e9804905fbfa1508fa94",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.kedar",
+      "kind": "content",
+      "fingerprint": "acf8fd4db79c283b20bf2bedbfb7beedecdbef46c4ee0e7496ce08a052224d54",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.kedar:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "110700abff419e0e74f590ac107f8b1391d7a58ef19e8ae7a7574a7208cf465e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.nagel",
+      "kind": "content",
+      "fingerprint": "d5d6e3f744e49167edaf893265cdb5afcb350a0a665d3d9fb8d206ec1247158f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.nagel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "7f27a0df8b03bfd05e0a9ace1b4c7773e4b8d9ccb6af1faad9be1c5bb1c0d063",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.rivlin",
+      "kind": "content",
+      "fingerprint": "4ba8fc7bf846306b35439bd79bd5001316b3ded6ceaecc69fdb7e93e01db085e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-governance.voice.rivlin:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "8da9e0c0e2b37cbb5d9113e518281136f20f301f42e28c51f5345af6cda8cb69",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.fact.rdna",
+      "kind": "content",
+      "fingerprint": "61e8c35bd7a7e685c7afb059a53ba18a9019e95d069f91eed66dd5d9a0d036b4",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.fact.res-2803",
+      "kind": "content",
+      "fingerprint": "b1a83691b4742043365ac70f93465751ca196202d387f97e7cdc4007b18cdc33",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.elgindy",
+      "kind": "content",
+      "fingerprint": "ad74ef2f5fbd247e56d4b0f549c61a2cae7592ca5c6c0e7beac951273b2806f2",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.elgindy:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "e95d0022069fc48be2a3fbe823b7f3185c371ff6ce2f794d0d0cf33a2f2fae22",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.hayman",
+      "kind": "content",
+      "fingerprint": "3a7028d99e1af20a8889977ea4413f61fb92415343a7bb0e97761980b89ccc3f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.hayman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "6d1370a038a0258978b795d0425155e245f92c69f9362a29b0ab35a9bee29316",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.lerman",
+      "kind": "content",
+      "fingerprint": "692ef6a955d041a3762669fdba4ee50475636805f4d88114d6fe4d3dc0798938",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.lerman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "af21c774ea7dbd371413d42c94f2f402aa231272966e21e31ac3c2ccf0e5f8d7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.phillips",
+      "kind": "content",
+      "fingerprint": "7d87d9e89992f29c6c4412ff6766327b3b9f2646e52d3ef5f66f1437ed637c78",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.gaza-sequence.voice.phillips:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2d5aac23f3f841d304d4aca03c96f96d5e7735d9620ab1ec8562e97b6888d201",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.fact.hcj-6198-23-ruling",
+      "kind": "content",
+      "fingerprint": "065e6046362131e842b69a9a3c35de8c083e20c5983e3690c50e838101dd2ca6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.fact.reserve-service-rate",
+      "kind": "content",
+      "fingerprint": "548e86f88dae139dabe34b831733c04b190097663bf2b29e5ed8e1c70c135dc7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.aminach",
+      "kind": "content",
+      "fingerprint": "826236e2cb256a4363332596b65cb8b070c20c494f86f18dc218902fd62b2479",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.aminach:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "e5f02df9dbf37874a9fe77d8ef28e0ed84caf755cbd1de291a2d72296b1cf699",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.lando",
+      "kind": "content",
+      "fingerprint": "65cc626bf44add8a4680d4cdae0ee3febe1e4bc8fa6d99507904cf04cc168ca7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.lando:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "be56a8c3d5430a180fe91c42aa20a02b248cca12380b6eef9284b07cd2f82603",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.melamed",
+      "kind": "content",
+      "fingerprint": "10622139afcaeabb57308dfd5b1beac7fb53995f657d098221a2a90890abb2ba",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.melamed:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "48776e91455adc299f9bd0987e47886a552c9be9d5da94b314a38f407346921d",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.yosef",
+      "kind": "content",
+      "fingerprint": "05ece6dd91fe1fa8e0ff1b992aa5ae2743efa8fa039d62280b16f92d889319b5",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.haredi-draft.voice.yosef:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "3e804eb21e8ed05dc4003d8cdb295dc9bf5252d21d1d8d72bb4a8e2ea7b5748e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.fact.israel-not-party",
+      "kind": "content",
+      "fingerprint": "45bfee20a9dc48bf0b41aed13f49eff05211d323f711038a43108bc324471bd8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.fact.palestine-accession",
+      "kind": "content",
+      "fingerprint": "10b240cdf4e71f0e145a9bb2d6c65351b09baebccff09713f6417d0e95c2afd9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.fact.warrants-2024",
+      "kind": "content",
+      "fingerprint": "46c46d91ac462dcbd0b0ef03d2b1993f38256a7a1eb3f7d0065649f26135085a",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.kontorovich",
+      "kind": "content",
+      "fingerprint": "4155f86c52664d9ffe22444b22385aa8800d19f5a8f55e6bb61dbafd3fd3e337",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.kontorovich:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "3b128d103e5807d58b6fde53b5424c5fbd5e336a99bd0be3aec590c7bf3fac1f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.plesner-cohen",
+      "kind": "content",
+      "fingerprint": "a987aa189ef33d3e9f35a89a6e7812cdcf3fa5df9d8021547de6a1cc24a0ac1a",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.plesner-cohen:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "78d3d273e8e309752d45f4149110445d86ca00e31aa5b69f9cb8c6b9330ff2ce",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.shalev",
+      "kind": "content",
+      "fingerprint": "35c664e8094a44ef559897d0284b9c104b742cc95bc1d7ffbe03d341ecdf14fb",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.shalev:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "add4dc64511dbc44853aa6215625314a98676baaa917de8afbd46dc0bc3ac6a9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.fact.iaea-june-2025-timeline",
+      "kind": "content",
+      "fingerprint": "f83c677fd98edada843b36c6b7c058f8e55f60da2f803d37245fecb411729f79",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.fact.iaea-stockpile",
+      "kind": "content",
+      "fingerprint": "7576ca34ab8eadf502e95ca59960aca522febd27ed50e31581824a247d92ed8a",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.fact.midnight-hammer-b2",
+      "kind": "content",
+      "fingerprint": "6f8972100f63895603558fc4cec0394f1ac008f2fd7042a09491537643f285e7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.amidror",
+      "kind": "content",
+      "fingerprint": "514d8a9efdc6627e4e2fa801ac8c3ee297ba588b2b710edbcc35b751f4577a99",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.amidror:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "51d241fa9e4db0fd6f8697d6c2f65ca72d45dfda770404445d9309d5a0024ff0",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.ben-shabbat",
+      "kind": "content",
+      "fingerprint": "abfb06dee4835843ed80e8b358fd57b872349259ecd2d0362c9450a66be46f25",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.ben-shabbat:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "0d2e41168e48d348ff07639dccf91b59bc62d8eaa216fb8d92d768aeb7cc10a0",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.citrinowicz",
+      "kind": "content",
+      "fingerprint": "7659cdfbf27789f17255006d831f8299eb65ded72ad0c144c838891e46d587ec",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.citrinowicz:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "7a0e6a5fee3e9d380c313b7aaf18b7f6f534d8b5fe3bd219e95749247c4b1fda",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.zimmt",
+      "kind": "content",
+      "fingerprint": "da37868d99102da578d9490a6850d7e086023f488a0c85c850c6303444eba1f2",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.iran.voice.zimmt:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b97db28a08a52954bda0dff1d0f49fd67b400ef2b56afd40f905b9a8099359a8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.fact.committee-before-2025",
+      "kind": "content",
+      "fingerprint": "ebc3f716f6fcda84115cdb8465cbab86c13bf67b662716502b79b2c502d97995",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.fact.committee-from-26th-knesset",
+      "kind": "content",
+      "fingerprint": "5a44b213a0b5385c91c3b6cb0eeaa582acb0428349784a164370c14a3505c2c8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.fact.seven-of-nine-rule",
+      "kind": "content",
+      "fingerprint": "878fcd552ac3e57bd66a42d97544f00404b6c11317ec41242d320c4159566ae3",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.becher",
+      "kind": "content",
+      "fingerprint": "8649d78857b6ec74cb6eec3af071e7dece0d87e5e7ec4f384e9aa3199d03b1cb",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.becher:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a5a4101525d9cb591896370c89ea8691138c46a0ce30338fd78a3b8e414bbe42",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.fuchs",
+      "kind": "content",
+      "fingerprint": "d821a3a2c2b6061a885631b03c035ac20d5070cfb7cae6d3348ff69b5ba31349",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.fuchs:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "c4fc8e3453594a4895d2a2e9a6ef66e4390408b8be800026c689730cf59dbb0c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.garber",
+      "kind": "content",
+      "fingerprint": "158f91b681d846dbf33cec046e535225c6b3c990880a6885011a77fed0304236",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.garber:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "1457f1d6db1473c296e42220ef85391e530bc5318057b86a0e2f62b8de8de5d3",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.shapiro",
+      "kind": "content",
+      "fingerprint": "58a56598ebf8b6a3f1858de93271f0496a2c1b19f13e5b64b43f3713f1d11b11",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.judge-selection.voice.shapiro:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "4bdb4abd5da867e58c23af9eaf8d015de8d66864911b6fc54992b33e0e68c485",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.fact.authorized-certifiers",
+      "kind": "content",
+      "fingerprint": "8491c67072b814352548c331b2cd6df7624bbe66d14bf7f880d084f90b238a66",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.fact.supervisors-employed-by-businesses",
+      "kind": "content",
+      "fingerprint": "e237212a09acd91e378ceb2b9faa45f6616ea7827f174f9b8431d176da8e1908",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.bar",
+      "kind": "content",
+      "fingerprint": "be0a3f40a9ae959e12781d088ae072a1a4da23d89f51cbdcaa6dee4d1fa5c7d3",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.bar:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a328c61984a3626574e8c52ea26863733aaafeaa418d60962cec388c398babc2",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.finkelstein-goldberg",
+      "kind": "content",
+      "fingerprint": "3132900f4e9949c3dc452c3060e7269d7e583ffe1110bd776112df0ec95a016c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.finkelstein-goldberg:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5b70955b2ad2b0353412aab7ff6624ecc36078e7fcf0da047392437bc2d31e09",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.frank",
+      "kind": "content",
+      "fingerprint": "bd8688bd280b6efb7bee79959fb080a91c876da4090e71fa0fc088bf776da7b1",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.frank:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "d128ed7a413f7bc47488f4a64803966973f1d7d2c58a8d00c65fe4c8e8617ff9",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.pilber",
+      "kind": "content",
+      "fingerprint": "d50ceaf01740e6078a1dcdb17a5d690d7a9a096f002fb52d5270a0119c71cb51",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.kashrut.voice.pilber:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "f490e6d25bc888a69da044b27df5adfeb7ac7f0f27391d1ef254e36afc944d16",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.fact.declaration-equality",
+      "kind": "content",
+      "fingerprint": "cc90c38330dd050d02e1651561ed57c7b24eaf1a4461b184c0e4087d9fffd223",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.fact.hassoun-ruling",
+      "kind": "content",
+      "fingerprint": "870859afe79b2baeedae131abf0087ab8e47f9a5b8ab1f4a24deef2cba7a22a7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.asaad",
+      "kind": "content",
+      "fingerprint": "8a35d2787dce9cafd40cd424c95f6a80259d9e5adb1322618504254b2c07a9c4",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.asaad:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "1156d57a81fe05a592c8a8b16bf09d766815666ce5919ab3ed2283fca2a1dd24",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.gordon",
+      "kind": "content",
+      "fingerprint": "1ef53bfd490657d179b9aac08d3cb6ca97b09baaafe8e3f882207279bc6fe1a7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.gordon:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "edb54c5d4a8ef193d4c243c9a2253ecd0c4d366d1965b8193cfd630c121c95ef",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.koppel",
+      "kind": "content",
+      "fingerprint": "f5160bbdbf57392168ce22145f9c3fd25d8d0ebf120828327ee9a1a948346a95",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.koppel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b560fffcc6c4ed23fb414410ebe712a271f1b56171baade2738a167d9553b557",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.navot",
+      "kind": "content",
+      "fingerprint": "352e91242aa0452fe8b3281dffd0808b129ae0f75c7029fbf78741c9601b07db",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.nation-state-equality.voice.navot:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "47c0f752cf54d6bfde10da707677e8b6d45a21c1fb10f3ad20e3039d28c6d703",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.fact.mbs-shura",
+      "kind": "content",
+      "fingerprint": "c93f9ae52640341d514c934ebbf4882ea99c216ea1ff81104f20ff0e2ad9ea9c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.fact.uae-treaty",
+      "kind": "content",
+      "fingerprint": "b8eeda50d4d3c4a7af64c3f77d6afbeb7756a86c3158e1362292ea017fbe66fb",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.abdul-hussain",
+      "kind": "content",
+      "fingerprint": "ba69680a47ebf07564b6e83228fefacb9a247a4b68d436d4bf04f920da0e9c24",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.abdul-hussain:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "949b3ed89847e9fc2e357ca32c52f877acef58c014651eaaccf1cf0615985330",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.alghashian",
+      "kind": "content",
+      "fingerprint": "746d26e8cfc1646d1fea724595fb932762308ab271648e00ab2ca953e94c4a5c",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.alghashian:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "8728d3da216514ad9ea54342ca7ab46738299edd62a8d53814da6b086a38a947",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.benlevi",
+      "kind": "content",
+      "fingerprint": "a44a2f61a9d9f4a7bcb122ea5b83e6a9afde4effb08f508f6caa872424c22db4",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.benlevi:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2be7ba92cb9ae3037aa8d88024d7a7b91d78708c6993bfb3d1dc7bc2cf9547a8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.dekel",
+      "kind": "content",
+      "fingerprint": "71f1b4f16d555ddf3483c58b84dfeca7ed4756b9fa949396acd665c7dff0a3e1",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.dekel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5a2c45d6be31033846e570b2d967fcd01227d30a30636c8beafc755449009b3e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.podeh",
+      "kind": "content",
+      "fingerprint": "21931e1a39820affa224dc56ebe0b9a322146e4961b3a5a315cb078d29ad55cc",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.normalization.voice.podeh:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5d3ffeb6da01730d7cdb053a00a4b84d276a925fd84b78c6f8cfa5f4cbadbc64",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.fact.commissions-law-appointment",
+      "kind": "content",
+      "fingerprint": "90c43cbb20cf8222519e0a89c4b00ffde53f9f706c39444a6ccdb191009871a7",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.fact.comptroller-after-high-court",
+      "kind": "content",
+      "fingerprint": "ddeba9af4ddb68d1c47676c2583b8a1c5716f0524f8dfe9c5dba11f3186d44d0",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.fact.comptroller-audit-program",
+      "kind": "content",
+      "fingerprint": "4088dc928e77e24f45e88c57947acfc6ad7fe4dae9f0146f5f278ae8f53814c1",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.voice.blander",
+      "kind": "content",
+      "fingerprint": "2663a96997ddef1e097d8562b504ff9ca07c8a7b6512e1fcc201869374e9e941",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.voice.blander:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "f172ceca44eddc265fd5b553d53896a574d1eccfe24f8f77dbf6a21fd1146d24",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.voice.klagsbald",
+      "kind": "content",
+      "fingerprint": "6e36035b44f7064c8412e07eb179eb37e021e5aa3e8422879b39a7b3b8d537b6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.oct7-inquiry.voice.klagsbald:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "7c7dce8658a193a1795df6153912e23acf772cd5a4a42716e211133ef80e4281",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.fact.israeli-population",
+      "kind": "content",
+      "fingerprint": "ed81a68e9e6d111f4e9f6c6ca5abac84316a789f0df93d22702a16cf8ddd28b0",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.fact.oslo-settlements-permanent-status",
+      "kind": "content",
+      "fingerprint": "c838adf217e9dc63e390aa398efeb848ed026fccee6754d2c0824e6453122b3b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.arieli-hirschberger-hirsch-hefler",
+      "kind": "content",
+      "fingerprint": "a0b80a8dcec1f8cc5ddd3faafc202a2d510e37581ade4749b4ec51c67eb190a8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.arieli-hirschberger-hirsch-hefler:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "4d495ff246ef83dbc23a521b85e811ce4cb9abe95257d9e45c8d47c53615e76d",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.dekel",
+      "kind": "content",
+      "fingerprint": "20653cd13ed098d14f1de1deecab76ca11cf9a84b7f8e50d320dda1ab0fd5b0b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.dekel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "273458f2bb10ba4ad893db2f9437fae9bc009c88f751534450530b514c8b4434",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.freund",
+      "kind": "content",
+      "fingerprint": "a5701c8e0f9feb828152c21d17b35fca2f60c1a7ab98d67ca82833b973a5ec53",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.freund:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "92d6aeae3c5970fc2b6cc10ec040183fbe1bfc59d80776300d84e5f2b1030f83",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.inbar",
+      "kind": "content",
+      "fingerprint": "fce179de855172a85779ac3aaa2e4f9a82a1a4afcda500dc78054c2caec30033",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.settlements.voice.inbar:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "76a37e763f894e10f00a8b0f8ea970b3d5af63a571c0365a13bf0aced5cbf90f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.fact.hours-of-work-and-rest-law",
+      "kind": "content",
+      "fingerprint": "837f08a4e147d16ae75b2ab7ca7ac160bb6ec8454faa177c9b737d41402d8b45",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.fact.traffic-regulation-386a",
+      "kind": "content",
+      "fingerprint": "c36c644412ffaf927e0e17d98ec7ae324c0350d2aff51281af9f68bc2fbc66ef",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.milgrom",
+      "kind": "content",
+      "fingerprint": "9cf5513314840d368ead4cf3e75c8b2655b387a575ca708bb5c6e46611178b2e",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.milgrom:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "1eaed0ed2cd74842894aefb9d9edde4c7c76e5c02b40c0316096534f17264ba8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.statman",
+      "kind": "content",
+      "fingerprint": "9fa9c459eb324a3b4b7807c5db1389b2698717f2404504fde604a96ccecd176a",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.statman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "01320c723e5a069851f34f16e65fb9e43d484ecb0fa278e0df8467f1b0fd7cf8",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.yosef",
+      "kind": "content",
+      "fingerprint": "9df03d87392a60c7f065625707752f7d8678eaa14f4f0ee892458aa8e579779a",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.yosef:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "f8bab79b453d9d868a365350ce338b944acff2fe984cb29d34ebe5eca470d6be",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.fact.israeli-population",
+      "kind": "content",
+      "fingerprint": "83200131cb5dc4d6e3751831291a81115426b65e3ba5b66a2b784dcc13bf6b71",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.fact.oslo-area-c",
+      "kind": "content",
+      "fingerprint": "1133ec3ae6c77488a95edfdc880d118cf3d16fb6e0c78371501152688337217b",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.fact.palestinian-population",
+      "kind": "content",
+      "fingerprint": "7c4db1dec8d12dfea476931f403422d1bf85ca004f09f422872b2c561cadf9b6",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.ayalon-pardo-shamni",
+      "kind": "content",
+      "fingerprint": "44546a7922e5cde19b40b5b144c1dc8bca18cdbc2139ce513e4e7a7dff7a2d80",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.ayalon-pardo-shamni:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a5240b57755e646ba855bf31f64d3543710e62f3392310c751bf35afe58371b4",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.bulshtein",
+      "kind": "content",
+      "fingerprint": "a3a409d93b250809ba86a3adf0b8f18e43788827e8597409c3e05de4a57bef21",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.bulshtein:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "dbcba3f3b29b90490f11cd623db8b8ff9179c6175cc74989a92e4ed0ff314fba",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.kontorovich",
+      "kind": "content",
+      "fingerprint": "1d553208f8e9d7dc4644bc5ef597971469e52c21dfcc01a339ecd66778eb029f",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.kontorovich:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "af96b90a47c33574628974b38337f711cfa0b44e365ccf3c9ea0b38fe0c78155",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.schwartz",
+      "kind": "content",
+      "fingerprint": "32562517397f67776ef2e2fc4ec076917eaf602b72098b9ee579b59f8bcf501d",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.sovereignty.voice.schwartz:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "02622ee467ed396ba25fee1befb0136dc250ad2648424485e076ae4e8455ecc5",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "52524e75c14417a1a9e76cbb472cf816d07d8a8f47e94a012d739a752886bd74",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "2CoUzqWBJB4ulZzWTO56lgx0UJpYFRpq7knpnA44vbDVLJV/E+NOcC+omgINGxjmjVZ6xWLXmE9sdG7hwXkYAQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAIL73DyzBF6PcglAD+59C4QwFl3r\nfUgUbR6q4LeVlR0KAAAAIBTBDjep6QUnX8cWoy5xENyi6Hmx1d3sSs6XYEILTYlF\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/20/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/20/opentimestamps.ots"
+    }
+  ]
+}
