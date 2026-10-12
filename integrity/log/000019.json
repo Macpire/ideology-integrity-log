@@ -1,0 +1,401 @@
+{
+  "seq": 19,
+  "prev": "3238b0daab44ce6c72030f4cae10a376098a49b447ec1392c0832c20b8dfbe1a",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-12T05:30:40.296Z",
+  "records": [
+    {
+      "id": "ca-ad12-elward-tax",
+      "kind": "content",
+      "fingerprint": "b76a058b5315a247167068ebced465dfd1165eb546dbcebd46a740c58822fd99",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad12-elward-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "7795b58e89ae8b444896dc8a16ffba0efe69ba3fb010cf44e113e17675d269e8",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad14-rendon-tax",
+      "kind": "content",
+      "fingerprint": "57ab88580de8f138a1183f4622486ea7d76bf4cd2d014ca4467b06df75dd2129",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad14-rendon-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "5d2a175d7c83f526bbef42b13977402a2a4cd5be6778234b85b84db41d36cf41",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad51-hernandez-tax",
+      "kind": "content",
+      "fingerprint": "1853376d5059524ac99f582770d530df2617b9f1213c78427c578f3f5b7cbad2",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad51-hernandez-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "cd6037f12a01c193773b81d0e7ffb7ddfc01ad8d6b75ebabaaf213b5e8b7a753",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad52-caloza",
+      "kind": "content",
+      "fingerprint": "050d47131110302bcfea4c29ff2f7375b77689cfb876c0934b9ffe8640762ab8",
+      "supersedes": "c76ad259c846ca1f026d9b9f112e63eaea3d695ad2a7b50a39fb325f35deb58c"
+    },
+    {
+      "id": "ca-ad52-caloza-abortion",
+      "kind": "content",
+      "fingerprint": "f5afe5f95ceba680f3921ff9238e53d5e19255894adbe15c8537e62f4b408585",
+      "supersedes": "7f29f9f96c5357e8de1360bc673bc33e635482e43be5732f9fafed8cf7f7b416"
+    },
+    {
+      "id": "ca-ad59-hernandez-tax",
+      "kind": "content",
+      "fingerprint": "56d651893ee9f604217c38b787f499275545db8345bb081b266c1ddf4542cdac",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad59-hernandez-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "bc3cbb41be4a1c3abf4fcfb2ffc475d4a222e9fbb75354d5a86a1364fdba3aa0",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad63-johnson",
+      "kind": "content",
+      "fingerprint": "6cc003c12148f99ba88c4c4cb7f53adbbce1fbc6db57602957c7d37e69ea0ac8",
+      "supersedes": "9fc419b6811af9668c4f15d8cbbfbebf8466cba7b85467c1c27fbb567a48a882"
+    },
+    {
+      "id": "ca-ad63-johnson-schools",
+      "kind": "content",
+      "fingerprint": "baf8296139da05a0f8c97924384dcb5e080a5e2fd62333dba3fb85cdc6016322",
+      "supersedes": "0dbc5c767759ad4e0fb3742d0d2c495777f228c8b882e0a4c50038017c8df67a"
+    },
+    {
+      "id": "ca-ad64-pacheco",
+      "kind": "content",
+      "fingerprint": "0c57538c62bdca448aefa163273183bc123140fb6fba641c26e22916c526fff0",
+      "supersedes": "519498cc59a12de5432d5260998c3f117351c26555a854c200b1230812c83e47"
+    },
+    {
+      "id": "ca-ad64-pacheco-abortion",
+      "kind": "content",
+      "fingerprint": "bc85338f80a307f18c4ee586eeb31722f85fa043e24fe12ee017602465dfdbf0",
+      "supersedes": "3503c984025b0c4597c321f89815996b77f51994ad3caddefb40540d4d361d6b"
+    },
+    {
+      "id": "ca-ad66-seo",
+      "kind": "content",
+      "fingerprint": "081f0514717f8a555c03ccfb40859da8bd894e545816bfb7ab31e7865b5c7d3e",
+      "supersedes": "3655db7635f90e19f0602b0dfc2836662f3192bca30d6220c0c94b5235efa9ca"
+    },
+    {
+      "id": "ca-ad66-seo-abortion",
+      "kind": "content",
+      "fingerprint": "762db04cfa9cf6c9999a18c5ff7a6322564140e7b56deb68a4c91bbf532d482d",
+      "supersedes": "0e887fad9823ae41a3b90e7234621427aeb579a49fcfb666bcd883c67d6d0fba"
+    },
+    {
+      "id": "ca-ad75-boursiquot-tax",
+      "kind": "content",
+      "fingerprint": "db4336223564b16c9a74599c20d53efd68a60bf9be9e38c6b06f00c0e8d41ba4",
+      "supersedes": null
+    },
+    {
+      "id": "ca-ad75-boursiquot-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "fa58c54df563f28330058b5975cb1d42e18269a50910b621ff99383bad2e880a",
+      "supersedes": null
+    },
+    {
+      "id": "ca-boe3-gipson-tax",
+      "kind": "content",
+      "fingerprint": "1cfdc2da4966edef00b7009d2a0d8c96b35d2b3ad9c39ee2c1030ea28ea9c378",
+      "supersedes": null
+    },
+    {
+      "id": "ca-boe3-gipson-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "c91035c54762c711d7b24dbd5d834f00fc25f251bcf70831debbc734ebe1a071",
+      "supersedes": null
+    },
+    {
+      "id": "ca-boe3-sukaton-tax",
+      "kind": "content",
+      "fingerprint": "5480cb07a9fedf26d8c75dbda44a0d5116012a7062dac6956a96076fc02455ca",
+      "supersedes": "238774b58a16bb14bbfe58116867618417fc14b4cf9041ac18c2ed538f5b9c03"
+    },
+    {
+      "id": "ca-boe3-sukaton-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "b9e87b5c6d311f6d274b3cce8b723ac00a6da7af1817a29c1c98efa8d0252a01",
+      "supersedes": "a08e89947929b1f567900c3135b8448a79b64fda529d8a54f47c5fb124c4e59b"
+    },
+    {
+      "id": "ca-h27-whitesides",
+      "kind": "content",
+      "fingerprint": "8b1d9a2360ab6866ec7f0cba6d0ebae64d02b9d1e6e9d2647895ec8cecf8a7c9",
+      "supersedes": "e8045b034da8d1512eb11e1078bfb51caf3caaf453050ca578e1ff22b623bb6f"
+    },
+    {
+      "id": "ca-h27-whitesides-abortion",
+      "kind": "content",
+      "fingerprint": "752278d08a3b9fdee9cf6b119037e6ad4c3882f00b2ee35d1918dbf3679415ad",
+      "supersedes": "e6f3e7201d0c31373e14db6f75479f1799780d55082a17b8fd096ad6ed6a7e88"
+    },
+    {
+      "id": "ca-h30-friedman",
+      "kind": "content",
+      "fingerprint": "ee835b653dd757095ac623d11bee7cc0ebe7fe8da646416f94a6fa4ffec00d69",
+      "supersedes": "f812eba9c58627a7edb54a484ff3d138ddb6bf38619de2bed50dcb9f27b7806c"
+    },
+    {
+      "id": "ca-h31-cisneros",
+      "kind": "content",
+      "fingerprint": "0509eb1e49405fc5726c7d8fa902dece585cb40edc085b3ccc1a1746e6cd9b2a",
+      "supersedes": "a05651da337d7fce609f2255e45d08b3cfea8b456c21c99c7b66e9f5f3d018e9"
+    },
+    {
+      "id": "ca-h32-sherman",
+      "kind": "content",
+      "fingerprint": "de82bd742b363fe6f2fe8e9febff01a28e281ce3969c30a4a382c83a1239ca49",
+      "supersedes": "4aa65a317df9d71ff8672cbc028d541268ade0db41b148b3995faada8e0ee938"
+    },
+    {
+      "id": "ca-h34-gomez",
+      "kind": "content",
+      "fingerprint": "2124c1427a833dbbfa6b07d03ee6d7e7c8e2238df6ccddb540610f98c22fb770",
+      "supersedes": "858772514909e8321e3c4b9653c63719936aaffa1edca8beef3c41a92d4c2b36"
+    },
+    {
+      "id": "ca-h34-gomez-abortion",
+      "kind": "content",
+      "fingerprint": "89b6ba4bfb8069a4eb35f07bfb26bbc52802f7a4d693ef67b6d9de84438e3bc5",
+      "supersedes": "3244525122bc29ce3c76affb08d742ab84a2e5b4d2fe308f108e3645d1005fcf"
+    },
+    {
+      "id": "ca-h34-gomez-campaign-money",
+      "kind": "content",
+      "fingerprint": "f1ebc90fd0877cdf2c535ad21ba4d7be92eed28a2f9bfe7aa02810d398d5e2d0",
+      "supersedes": "6f35d9efc2a1ad8fb30fba5396dda1ab2403de7bcc6cb7a0c5e87b22b886414f"
+    },
+    {
+      "id": "ca-h35-torres",
+      "kind": "content",
+      "fingerprint": "3bd0bd74d816253219a5b87fbd4953dbfe1ada93cbc4ea7a164b23f913e4b331",
+      "supersedes": "213451c21238afe687d2417b2e466f66e7fbd0e3204a60616c3df5022f9ee0e1"
+    },
+    {
+      "id": "ca-h36-lieu",
+      "kind": "content",
+      "fingerprint": "b499c3f0143a5351b003c6c5e07c141415adb4772051d139b93b271562eaaddc",
+      "supersedes": "7a943808497e8d21e85de76bd9675f4b0f009073e130f8c06dc575cf7a05bb31"
+    },
+    {
+      "id": "ca-h38-solis",
+      "kind": "content",
+      "fingerprint": "4e34d3749f6162c749922bfacf9ceea7aaed5e5bdef0bff1c80a213c43021c9f",
+      "supersedes": "756419e00d8e18b368833b8ad3973700368cc8001fbef9a878f7ade98d4f00ca"
+    },
+    {
+      "id": "ca-retain-adams-r",
+      "kind": "content",
+      "fingerprint": "3ec40f53cca48fe0846bc0c5147a96ca3dd2481159c1c22d5668c9dceeba9cff",
+      "supersedes": "636a4cb629933f61cdfe78e2440ef61ac44eb55b9bfdb6b586b3fe443f56fa7f"
+    },
+    {
+      "id": "ca-retain-brown",
+      "kind": "content",
+      "fingerprint": "3fe646d756cb43ee0161e40708361cf00dbdcd885ba5a5b3e06b1cf16cd61d4b",
+      "supersedes": "faf3856fd98b18c0710ac08d5ff3680585e3d49b06dcc9f95990304c21e3a285"
+    },
+    {
+      "id": "ca-retain-chou",
+      "kind": "content",
+      "fingerprint": "5e642b3d34ebc558804b8d4f52e436f84b481fce02e2917d6e32aa4b517e1c08",
+      "supersedes": "fc638cd9b54cd23aef26ee8faf1af329425d0c59a0e99a9f31755e833c43604f"
+    },
+    {
+      "id": "ca-retain-cody",
+      "kind": "content",
+      "fingerprint": "720365f119bd131398e80cc5fa56e6adc84572ab1cec634e245c1e8ae025c567",
+      "supersedes": "2fc27ea442170cd644c84e03805ce4dcc3ac04125bd21cb3383a445e83305e20"
+    },
+    {
+      "id": "ca-retain-daum",
+      "kind": "content",
+      "fingerprint": "d8e7afffe4923b0550984069aea2c11dd0a078322a505f250e0e0e7905b65879",
+      "supersedes": "c3615c1ce4f5a54d7201942b05ad8780f90d289ef3fc45612dd694d9f776f46a"
+    },
+    {
+      "id": "ca-retain-desautels",
+      "kind": "content",
+      "fingerprint": "d24f6b1053d8de000a41e2990c7533aa17562b08d2efd245c4031ffcd4753d5e",
+      "supersedes": "26153cf808a248158581d4580026275777e1c48fdd3db2fd947792f2fdcd0a4e"
+    },
+    {
+      "id": "ca-retain-earl",
+      "kind": "content",
+      "fingerprint": "f7c97851a1f2937820a4d1a64c6e488a08b9e9b013c4a5ca2592212e9521485c",
+      "supersedes": "2f0894fee04684fb8022159d9b928277ae5d40e39dbe04d90abeb70914713c39"
+    },
+    {
+      "id": "ca-retain-evans",
+      "kind": "content",
+      "fingerprint": "1574cfab49c70340ec2ce4c8495c463b3bdd03cfb972a8911c3421fed731773f",
+      "supersedes": "5136ceba2e848fdecae814ba112b6de003b77194a812e5edac6e2395686e20e0"
+    },
+    {
+      "id": "ca-retain-goorvitch",
+      "kind": "content",
+      "fingerprint": "6126df497640585ed892231c6803bcc46e4ad4b232dbde8330aa3ed87e51ff50",
+      "supersedes": "df2ed43a5a4fb2fb9978aa1a05b719253a18168f05de9e2b06e6bead415c5257"
+    },
+    {
+      "id": "ca-retain-hanasono",
+      "kind": "content",
+      "fingerprint": "d62d9a939ed6cdebc269b0dc75bc286ee06803040b27305ab8b943de02dbee1d",
+      "supersedes": "8d65a4d9524df19d7a2e136f988e220fa6202bd1be8728c808d77d115ca851dc"
+    },
+    {
+      "id": "ca-retain-hoffstadt",
+      "kind": "content",
+      "fingerprint": "3ab36b5cc1e0f24a81495c988de1021b2640b6c9dafc2a3afa47deb607ace983",
+      "supersedes": "56f65db682b7e1e498e3a3a56185fd2761221abf80764defae67ee3a58ff4d60"
+    },
+    {
+      "id": "ca-retain-kim",
+      "kind": "content",
+      "fingerprint": "aa3a3a8db24f3e7c76861c0db4051bc22e41d88e24fbe14e61aff5170839c899",
+      "supersedes": "ce4c69cf91285b8d804ceb7e138f0bfa4dac260c882f994e9550e166eafd94c2"
+    },
+    {
+      "id": "ca-retain-langhorne-wilson",
+      "kind": "content",
+      "fingerprint": "961ef89c19db2f583448606dbf5b5c89b8c23e0d1917230e1ba16dafa9ee75f1",
+      "supersedes": "2baa31c1a96f66100e24daafd05e28ab38188f2ba50783578e73c269e38828c8"
+    },
+    {
+      "id": "ca-retain-mori",
+      "kind": "content",
+      "fingerprint": "dde3570acfab75599d180c923b8ff4943859c47cfa779fc1ecfeee171f026f3e",
+      "supersedes": "56998dc68e470f0b61e8d20da47f8c710a9c9c58f6f3bf45c4c3d0e5a136dfe2"
+    },
+    {
+      "id": "ca-retain-rodriguez-l",
+      "kind": "content",
+      "fingerprint": "d075b9b1e6a9c49963dac9fc033f7b7d36aa46a86fd4c04e5c1fc4d14247ea55",
+      "supersedes": "8dd1b8778a873cfa05095059e251f6df4330df80c8200ce1ab68d633c2dd87e1"
+    },
+    {
+      "id": "ca-retain-rodriguez-v",
+      "kind": "content",
+      "fingerprint": "3199b9870df11a1be607bc437029192bfff8a1a1a4657483c9efb1fb57f0a533",
+      "supersedes": "3ea349a297ac6276617f2fcaf80e13e0155353d4622c9fce012dac9e80fb6651"
+    },
+    {
+      "id": "ca-retain-scherb",
+      "kind": "content",
+      "fingerprint": "ce19be72815c2ba5277a09032f61cbcc07a10c79a5264ba6da1252c22c6f6466",
+      "supersedes": "691e95e63a9ba622d4628fc8456db0976475cbb85c19496009562c7026b79aeb"
+    },
+    {
+      "id": "ca-retain-smiley",
+      "kind": "content",
+      "fingerprint": "95409c138f77ac8231d605f8405fd39c5c0c5bdfe324c75fc5c29ab955a6b631",
+      "supersedes": "8b01c2324e0f583ad5e5b86967bb9d3462479b7e95c92033a02576c53c1ed07b"
+    },
+    {
+      "id": "ca-retain-stewart",
+      "kind": "content",
+      "fingerprint": "d59678154f049ee6653fecee5698cfe3728f7d36a41225a478255cf0e27f66de",
+      "supersedes": "eda7123e0e3716ef0d565d00b1e1d77db495faa7056ce42a38b3f1a77a498c94"
+    },
+    {
+      "id": "ca-retain-stone",
+      "kind": "content",
+      "fingerprint": "234898cb5c754a5731d5dc30648bd808abe6e6c40824089e7fc73d43f30b23a6",
+      "supersedes": "228b67cd626f9abc25cdc2612400d12d72cbae58b5d1dd698ed7ebcafb6c8705"
+    },
+    {
+      "id": "ca-retain-tamzarian",
+      "kind": "content",
+      "fingerprint": "77446687d50b2b53f8c34749e7fbec751025f818195d0a36914b3472f6062875",
+      "supersedes": "db22478396854650088745f51a9cac5f72b6842c7486929d71b2ed5bc72e837d"
+    },
+    {
+      "id": "ca-retain-viramontes",
+      "kind": "content",
+      "fingerprint": "e9a2d77fde3b23d02f839311ac2441f29e6573cbf2aebdcf1b5f9d14b56c5410",
+      "supersedes": "7190e18b69a25112166c19733a3a112dec0f6d2370908e08e02acd995a91c551"
+    },
+    {
+      "id": "ca-retain-weingart",
+      "kind": "content",
+      "fingerprint": "eabc18b76dcdfa1c8444ea808d60bbe110e512ee2a37f85706255e98dab8945f",
+      "supersedes": "64cc222f3eb0be7430ca31f1f688b07be34e8b2f89344e8c115c695297176afc"
+    },
+    {
+      "id": "ca-sd26-rascon",
+      "kind": "content",
+      "fingerprint": "6a3109b566435f8724efdee70b903910ede95c213d87c6a0d65afc8653d0fe5e",
+      "supersedes": "3e6332dc07b95420a3f817a20f088ba2ba5c95a2297e919ff4481c39f28fa5c0"
+    },
+    {
+      "id": "ca-sd26-rascon-tax",
+      "kind": "content",
+      "fingerprint": "c4e11ce8e319455f49a31d626a413dc0d81fb84be207f45dbda86cab8fb7f5dc",
+      "supersedes": null
+    },
+    {
+      "id": "ca-sd26-rascon-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "c4a0c0468aa74faa50663d9efeb09dd774ad017cf1e7a3a925697805882cb293",
+      "supersedes": null
+    },
+    {
+      "id": "ca-sd32-seyarto",
+      "kind": "content",
+      "fingerprint": "fd3405a4472b51957f532bd5017c7215ec452870376c7ec18a9c7dee381be690",
+      "supersedes": "cbf29a8897a34273164d40bfecc8a1fd2a6209c0b845fdd879274fe29cf5da46"
+    },
+    {
+      "id": "ca-sd32-seyarto-tax",
+      "kind": "content",
+      "fingerprint": "bd4496e0e6fc073ad811306b3f04e97d04f3e552cf57fbd83432e15b2d8d5918",
+      "supersedes": null
+    },
+    {
+      "id": "ca-sd32-seyarto-tax:position-side",
+      "kind": "judgment",
+      "fingerprint": "0e86fe7bde9e83165a865478560fef8c758c79cfaf7bbca9ca12ceebd0812cee",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "119700c60f487a847c9e2f6b15766b214fa95af14d23dbf5c3ef1380707a253e",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "Iwm/edJZ5rRaOuDFnpYnEIbyYAu3CxxkZfTiG4itiwEmpEk82YneDpwldWcBV7GOvW5J0AjvVtaR01S+1HL5CA=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAL3nAokZqUuLJDwBC6NL9lZscRe8\nNzRQWL20fXm2RU0LAAAAIFMI51Ie9adEoYpk0wfWLEYR5fwZy11NEReuFEmtj0Za\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/19/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/19/opentimestamps.ots"
+    }
+  ]
+}
