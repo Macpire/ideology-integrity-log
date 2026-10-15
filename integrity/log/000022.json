@@ -1,0 +1,53 @@
+{
+  "seq": 22,
+  "prev": "45d2928727865bf7fb97f5e4bd368ad2ba1766d386f84eada8aca34f187a0385",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-14T23:59:06.452Z",
+  "records": [
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.evenson",
+      "kind": "content",
+      "fingerprint": "a29ce9430c06dff1a6027d10c2741dbfa564fa25147f64c7b00e424b24776320",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.intl-courts.voice.evenson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "f6212880c2a9f24baaecec71730139528a052744e66d24351abfb9081864b1ff",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.idan-yosef",
+      "kind": "content",
+      "fingerprint": "8868bb4c1a11d7b75c3526b037d22e746748c2793f7376f2fed559c051a98b26",
+      "supersedes": null
+    },
+    {
+      "id": "il-knesset-2026.want.shabbat-transport.voice.idan-yosef:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a3416866c1367916801558dfbdcc8bb7c2c8caf736aaa65ec15cad4d49c3b259",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "3d297dca74d6f3f65d301ff9bda51ce69d6a4742225e2791f3cb2fa84bfd07ec",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "FPJYhsYZDBvOMAq5wMZxd41EvDSvxFAqTyzWAOCr8JNbFLzdqYzQWyQ4r4d+RCLPQJ6lHP1iXDqU3Zx1DabYAQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nUAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEoAAAAhAJ6Pd/Tks8YmRg/LmF8K0BRg699y\ninYsX7GzSnK44jcQAAAAIQCBRdWxL96xkaNqo8IY8KW+sHhVyZ+oii4gyW8XpiXsNQ==\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/22/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/22/opentimestamps.ots"
+    }
+  ]
+}
