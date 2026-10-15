@@ -1,0 +1,317 @@
+{
+  "seq": 25,
+  "prev": "b0c8ce7dffe8085b2a05324301e2fbf8d672da063ae9f57f7add3b1add7df5d3",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-15T17:11:03.079Z",
+  "records": [
+    {
+      "id": "believe.campaign-money.fact.ca-ban",
+      "kind": "content",
+      "fingerprint": "069c82efef54915cab82cc91d9c80893f87efccf3f697ad81741ae3a7d252130",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.fact.fec-presidential",
+      "kind": "content",
+      "fingerprint": "9323ea94ee4bfd8cc048c56afbe3090b88b88cab3e01c6bf20e38291e3c656bf",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.drutman",
+      "kind": "content",
+      "fingerprint": "d7cab65266023df843f3dddcb66ff21316b711e663e93c8a16c96d47d94a86ef",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.drutman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2f61a849e57bf41e098276bcef88285f274251456fc88237c02b4c5bfbd86d28",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.lessig",
+      "kind": "content",
+      "fingerprint": "df9fa9f95b7f28b9e99f767bd5e6621672357d86652f861299b54d1e6862099f",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.lessig:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "86aa031a8254010bce58e7413d374f0c678340374b15a707b8ae76a6a99dfd29",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.seiler",
+      "kind": "content",
+      "fingerprint": "1ae9e94471fd88aa026c901ee9ec45a6c7c46eeac4a3401cc128e98ad2d2380e",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.seiler:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "e691726c80b8918a3a44e2e93b8d7bd8464cc5d685f62dae8a169ba99548ab82",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.smith",
+      "kind": "content",
+      "fingerprint": "9b0b284c6c80be07925734a77ce154f0eb758eb9344dfb46f3da94e8609bcf10",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.smith:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "c18d765a57821d0b052bce2f3ed731051007ed143a8c5d585379ef956774daf4",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money:framing",
+      "kind": "judgment",
+      "fingerprint": "b40a46a057163e16da323b8ef342aceb7806f0c100e600eb222f0a54301f6b85",
+      "supersedes": "cc718f207ed817d7889841d2a01070fc55875082ef5fdfa745c879f918a39570"
+    },
+    {
+      "id": "believe.palestinian-state.fact.oslo-ii-art31",
+      "kind": "content",
+      "fingerprint": "176b6975dfb34951b02753a8bb0685b221496155fedcd578585d0677f23062fb",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.fact.unga-2012",
+      "kind": "content",
+      "fingerprint": "17dc7c8e15d6f5d9088e42ad2c592e578e75fc39c0407024a37267edf8c1d915",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.benmeir",
+      "kind": "content",
+      "fingerprint": "20413538d04dbaa0fe492727311daa658de893692b3f634f02657d6513cee6f7",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.benmeir:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "659599764bc179551b448add62e51a6fac6ba9b9cca2e8797d39e80bdbe106e1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.fredman",
+      "kind": "content",
+      "fingerprint": "356684b03912cfd47f8817b9597311089e93266689b635205fb03ba205891129",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.fredman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "38fca7cf73408a66f74d386e7daa3e32ebce95d7b16cf7d5f87470c7a8a648d1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.friedman",
+      "kind": "content",
+      "fingerprint": "c8b9b65a8e3bd61c74c2b94fc780e29cd28018d8ad7b1d4375b90d129d4de619",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.friedman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "e9a0d40bcab14c6cf4d48f9bba19bae9dc80d77dd002d64f22ebe4c86a3c8b20",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.gal",
+      "kind": "content",
+      "fingerprint": "184d3701bbd67bddf6c0c41a6d2772011385c9bb9c17847f9ee9ef67efa05199",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.gal:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "021b1148f2c96282e4bf8e0bb9ec634ae47d66515db984b3d89741f3925c02ac",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.klein",
+      "kind": "content",
+      "fingerprint": "1a7dde49194193756f3670586a65e368affebca1b24fcc487331ba017c8a24a9",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.klein:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "7f79b737a379c9da60f43c1fa7fe2a9597d4a418b0be2ab6cc6b093f22503c09",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.olmert",
+      "kind": "content",
+      "fingerprint": "3a07d8d06fb783b7c3a0a2267a2ce2e4eeac5faba7a109de931e28fdcda0e47d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.olmert:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "9d5f0a9071fc1e6f60798ecf165f7f3d7787b1afaa3f5005b87b2d26287fa539",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state:framing",
+      "kind": "judgment",
+      "fingerprint": "9dd0e05f22d981ab21a99baefee4f3d66824adb21c019e260e6cbce3593f4501",
+      "supersedes": "ffa4d46759c52c6d3264ffe2b7da545760e8124c3cf6fee31d466c59bfa8f55d"
+    },
+    {
+      "id": "believe.tax-share-national.fact.irs-bottom50-2020",
+      "kind": "content",
+      "fingerprint": "e27b938c913312e81ba46cabd8b6479c0a5840a38071eab3fa810aa0a1c2e026",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.fact.irs-top1-2020",
+      "kind": "content",
+      "fingerprint": "c319494dc7712b2b935541c8f1ce5c974396c1a5f60a77a77699209ec1529a3f",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.campbell",
+      "kind": "content",
+      "fingerprint": "bb63fddb32e9782225de1b3df0623eae660f89d41ed7a9e8ed078f6fe70ef7c7",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.campbell:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "28d9644852c76e637ef9f47fdb5ffa8e826d77fa087bd15425391f340061fde0",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.fayyad",
+      "kind": "content",
+      "fingerprint": "281118760a4651e1b44214e9e9d4291c64f7e3e5412749c7fd76544c08b19bdc",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.fayyad:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "552c44328afb232456f292697a31c7e498d090445e40b342432dddc716c248c1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.reynolds",
+      "kind": "content",
+      "fingerprint": "dfaf15f2f397d455fcb35823da4f9750766509029e005b3d96bd87da8d46403b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.reynolds:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "fbf75a0a4c3714c54952f3d08f628c08ed143b0c0c1f87d26dc4b9df2651c404",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.zucman",
+      "kind": "content",
+      "fingerprint": "418902ee830a7851b585006c26435edd0495b3c3586964840a9464ec84f5885b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national.voice.zucman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "9416239e54961c196860071a6442b364f638c5f0185ea4f21342e5bc321d672b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share-national:framing",
+      "kind": "judgment",
+      "fingerprint": "27696153c97187a713ad4b5deec36fd6cec3ddce30b4d8944dc3c7b077072f40",
+      "supersedes": "338c2d393642a4cfefc832ba278872eae573799ab76ac6c111ae0099af8bc2f3"
+    },
+    {
+      "id": "believe.voting-rules-eligible.fact.ca-id-now",
+      "kind": "content",
+      "fingerprint": "bb614e0cd2e34ceb7916e1929484d72d7be7a16ea9c8099f5060bc8ced5b1d5d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.fact.hava-mail",
+      "kind": "content",
+      "fingerprint": "fffa59fe5e50cd4850280d0af4c8f61e63eeb09fffc874c3e59eff3cc2dde0c1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.berman",
+      "kind": "content",
+      "fingerprint": "d97d38270fd1ef25c1208e12b5526f6c79fdd80bdec5ceab712ae25e7cd450f6",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.berman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "942e9de4558bdef76a9fb0b3a3d1f7bb3c220b992af65abaf7a8364c100f57f2",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.lyman",
+      "kind": "content",
+      "fingerprint": "d47a4362d9f6b6e5378cee60fccd99583015097eb51b11d001b7533fd0bba0ec",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.lyman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "1f4bbf92d2f0350dd955463ff7512466ff4619e99761b8b4d5192fa46b8d9a2b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.vonspakovsky",
+      "kind": "content",
+      "fingerprint": "94222902447cbca5b63d284517fb2a40e58917d559b666e243c2665025aefa12",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.vonspakovsky:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b5081d0e89fea6e0691f158bdf20706512da7f3f31116b0e2fa4c4f080226a26",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.waldman",
+      "kind": "content",
+      "fingerprint": "c680f95f3776598a77bbbfab76af855579bcd8258d184b1eada6dec51a0d66a1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.waldman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "424a7374f3bfc4abb83a5db312f10258476347422c6a43ad50623ea516d0e228",
+      "supersedes": null
+    },
+    {
+      "id": "believe.voting-rules-eligible:framing",
+      "kind": "judgment",
+      "fingerprint": "03f2e47844154539a0e37c1a0c270f686c359ecad367bc61a8451d4de42e6a1e",
+      "supersedes": "7e3f9febcdf6ec67424bc1f8b633a17ac530c917108c9915c647de014f687479"
+    }
+  ],
+  "merkleRoot": "50409614ab490f27d0161c2796de0dd29caa2ed1533beff8c550184bcfca1363",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "KtM8tiTbedqLuQ5l0659BbiGdI5v3mI+Tvv+kxViMToMu0nqdxypcnmSRUYTLuopDbj1zBMxvRc8Zt4OPb69CA=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgMuv8kUiKouT5DRJUNiaRJGkpsFj3\nIf2cDra360tst+4AAAAgb+iqtllO62+bb+YQ8pU4gJexeSrrDKf/0vDbAVql2kY=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/25/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/25/opentimestamps.ots"
+    }
+  ]
+}

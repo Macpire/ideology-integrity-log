@@ -1,0 +1,281 @@
+{
+  "seq": 24,
+  "prev": "4ee13ad8b87ac8ebde0eb4583491ed5e21466a2d74c3be8578d1e6409cb6bde2",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-15T17:11:03.079Z",
+  "records": [
+    {
+      "id": "believe.courts-final-say.fact.meat-law",
+      "kind": "content",
+      "fingerprint": "c4de661c092b5ab460ae095b51238b2efbd424e5fce733e99a060cfb4f43f736",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.fact.occupation-override",
+      "kind": "content",
+      "fingerprint": "e83b53ef9359cf19a306579e3d7261067e8b1b6e0ce4cae567274e0e1b059c4b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.hayut",
+      "kind": "content",
+      "fingerprint": "1a2061970fe2c2f426de1ead31e4f3da1792ef9c85e87a03412ef77b1b455ee0",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.hayut:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "6f282fc8e9e8b1dcd762cc2098056e3d936a7e74e982b863e134721d318f1c41",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.kahana",
+      "kind": "content",
+      "fingerprint": "08b4e493ad0600cc6f90bae13216d6d61a2aeb8bcdab4fecc2ee6f793ac30a64",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.kahana:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5bb9565d486a03f21a7de651cc7e19e8e096c1b7b58e59894b9f1181c358f44a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.sapir",
+      "kind": "content",
+      "fingerprint": "8f28fc7db23d0b2954f2b5a7a0d249cbd76e063b30b4b312125042bd20cc6dab",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.sapir:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "19b50ddf3707ccd257078ac374fea61623c57df3d0c25715efd753f7b5f2c580",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.shalev",
+      "kind": "content",
+      "fingerprint": "93ebf7e63fa5a6b83c7f23a79eed1a4485ef02d2edbea0a9aa9dc5b61727a10d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say.voice.shalev:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "afd1c2f79f01e6097d5cb9856245caddbbfd58f2feb2a795885f71309f66b8b8",
+      "supersedes": null
+    },
+    {
+      "id": "believe.courts-final-say:framing",
+      "kind": "judgment",
+      "fingerprint": "4ff632617d826c1d9b594149fc987cf6f99b0684a169de467489a9b76a331331",
+      "supersedes": "b7cc547b67ea9ef6c2a7cfc7cef2777cc4b6d421f6cd62998e8500a88a72fb23"
+    },
+    {
+      "id": "believe.palestinian-state.fact.oslo-ii-art31",
+      "kind": "content",
+      "fingerprint": "176b6975dfb34951b02753a8bb0685b221496155fedcd578585d0677f23062fb",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.fact.unga-2012",
+      "kind": "content",
+      "fingerprint": "17dc7c8e15d6f5d9088e42ad2c592e578e75fc39c0407024a37267edf8c1d915",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.benmeir",
+      "kind": "content",
+      "fingerprint": "20413538d04dbaa0fe492727311daa658de893692b3f634f02657d6513cee6f7",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.benmeir:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "659599764bc179551b448add62e51a6fac6ba9b9cca2e8797d39e80bdbe106e1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.fredman",
+      "kind": "content",
+      "fingerprint": "356684b03912cfd47f8817b9597311089e93266689b635205fb03ba205891129",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.fredman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "38fca7cf73408a66f74d386e7daa3e32ebce95d7b16cf7d5f87470c7a8a648d1",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.friedman",
+      "kind": "content",
+      "fingerprint": "c8b9b65a8e3bd61c74c2b94fc780e29cd28018d8ad7b1d4375b90d129d4de619",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.friedman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "e9a0d40bcab14c6cf4d48f9bba19bae9dc80d77dd002d64f22ebe4c86a3c8b20",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.gal",
+      "kind": "content",
+      "fingerprint": "184d3701bbd67bddf6c0c41a6d2772011385c9bb9c17847f9ee9ef67efa05199",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.gal:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "021b1148f2c96282e4bf8e0bb9ec634ae47d66515db984b3d89741f3925c02ac",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.klein",
+      "kind": "content",
+      "fingerprint": "1a7dde49194193756f3670586a65e368affebca1b24fcc487331ba017c8a24a9",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.klein:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "7f79b737a379c9da60f43c1fa7fe2a9597d4a418b0be2ab6cc6b093f22503c09",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.olmert",
+      "kind": "content",
+      "fingerprint": "3a07d8d06fb783b7c3a0a2267a2ce2e4eeac5faba7a109de931e28fdcda0e47d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state.voice.olmert:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "9d5f0a9071fc1e6f60798ecf165f7f3d7787b1afaa3f5005b87b2d26287fa539",
+      "supersedes": null
+    },
+    {
+      "id": "believe.palestinian-state:framing",
+      "kind": "judgment",
+      "fingerprint": "9dd0e05f22d981ab21a99baefee4f3d66824adb21c019e260e6cbce3593f4501",
+      "supersedes": "ffa4d46759c52c6d3264ffe2b7da545760e8124c3cf6fee31d466c59bfa8f55d"
+    },
+    {
+      "id": "believe.religion-state.fact.nation-state-sabbath",
+      "kind": "content",
+      "fingerprint": "5169f8a10ca541c5380f51ce7aae296f4886c23ea9b4c8197c7ea9c22969d5f8",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.fact.rabbinical-courts-law",
+      "kind": "content",
+      "fingerprint": "307d47d48532c64c4ad313c96eb404f93089b08601195718965b6c2b6b73f47a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.ariel",
+      "kind": "content",
+      "fingerprint": "907db19d5d811521bde2e877e6d08cb393fb50a1587ecfb9d8b234cf8edfbaba",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.ariel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2fd7d3b26cb1c2c1295c7fb812da68ed3aa36afdcb4bd90e70b22230fc494d10",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.farber",
+      "kind": "content",
+      "fingerprint": "1232d50e30fadcac7d445fc871f20fae75fd0cd499590d7c84e48962d0669f54",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.farber:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2bb574a258cca1141d896ea771014617605e1b37396c838dae39a2663d492911",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.lifshitz",
+      "kind": "content",
+      "fingerprint": "f268d858222cb18e1e45d7422401a6c9fd921551ae7f38a5eaaae9368dd1f280",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.lifshitz:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "8891266976842c7419c59048b1bf7d0ff86e7ea5c99cb46dced2bc4a69ee8956",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.melamed",
+      "kind": "content",
+      "fingerprint": "1e8cc3bfdee83d564c0bbabb4f1fd132d393e48c389f836ccfd6a25789fc13b0",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state.voice.melamed:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a9749800a6b420d19e806d83e08b14218452700e02ec74be376bf5948bef47d5",
+      "supersedes": null
+    },
+    {
+      "id": "believe.religion-state:framing",
+      "kind": "judgment",
+      "fingerprint": "c12187890a722a82ba8b747304bf9cd388ee87a4c247d3dc080d1a6c30c84571",
+      "supersedes": "e15d24d5deaa35108fe04dd1af45c0647e08020efa65789301fa706d45cb2860"
+    },
+    {
+      "id": "believe.security-control.fact.oslo-ii-security",
+      "kind": "content",
+      "fingerprint": "342275a191a72e56ea3e3522f9742ada3a500134e401eeb47e7f94eb6c09c517",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control.fact.unsc-2803",
+      "kind": "content",
+      "fingerprint": "182c4460c31aec8ce1c7f55c2102721e02228e499de4112b19639ddd1ac2168a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control.voice.weinberg",
+      "kind": "content",
+      "fingerprint": "affc3d00dea024461e899d560bd8853aa32458f17f0d7462783f8dc5583b83ac",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control.voice.weinberg:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b94ed7c73b7e2699599586d3dc30172fdf0004accc97ff8f23f4b927c9adaf9b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control:framing",
+      "kind": "judgment",
+      "fingerprint": "5293094445167cc01b1eab6e5cce833ef3d17fd02749f30b486dde1a0e82a1af",
+      "supersedes": "35c10fc1b1e10cb16d5c8c3b3c05ae0b080150afa47628bfed2c56d9eef77ea2"
+    }
+  ],
+  "merkleRoot": "ab66b9959443b6e9644d9d4c185d51ab2cb84c1d8383db8bbf82fdd008611c98",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "BMA0IaSAI7cKfYp7aw2e8yl4vmRT6pH4AcLDF7qU3b18/PVPoGiPNnma7oCCUoyS1ZWwf4aShjQd8H7VG12sDg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nUAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEoAAAAhAMQhgYborFMwIrgEP8Iue/qY1D7c\ng5EEINcVs24z89Y0AAAAIQChWS6cAa+wWcYGVZowPSD5Y+b6Ek0aUpXEClw6kdHNVg==\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/24/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/24/opentimestamps.ots"
+    }
+  ]
+}
