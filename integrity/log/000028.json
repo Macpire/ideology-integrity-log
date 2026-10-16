@@ -1,0 +1,77 @@
+{
+  "seq": 28,
+  "prev": "d8e5e838befc1a5f4c63653dee54be71f05bbc54663d34b8d3abc7634eef5c2a",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-15T23:49:44.090Z",
+  "records": [
+    {
+      "id": "believe.campaign-money.voice.lessig",
+      "kind": "content",
+      "fingerprint": "82de0737a1a6a90963c85f8964011d369b0f82aba123b71010a253b12e515535",
+      "supersedes": "df9fa9f95b7f28b9e99f767bd5e6621672357d86652f861299b54d1e6862099f"
+    },
+    {
+      "id": "believe.campaign-money.voice.smith",
+      "kind": "content",
+      "fingerprint": "525e733fa10483c04fe21f80f9b1f3fec9bf5fca96632aa09fa481367e0a7ec9",
+      "supersedes": "9b0b284c6c80be07925734a77ce154f0eb758eb9344dfb46f3da94e8609bcf10"
+    },
+    {
+      "id": "believe.palestinian-state.fact.unga-2012",
+      "kind": "content",
+      "fingerprint": "1eb2728092fb7ac35f4920e0b7e57ee41749ac07be71bf20e60d9511b84f920d",
+      "supersedes": "17dc7c8e15d6f5d9088e42ad2c592e578e75fc39c0407024a37267edf8c1d915"
+    },
+    {
+      "id": "believe.palestinian-state.voice.fredman",
+      "kind": "content",
+      "fingerprint": "5d403d4a96a7d30e6c62f3a2afc4f9527af96d71fb108513bbd46068a6074125",
+      "supersedes": "356684b03912cfd47f8817b9597311089e93266689b635205fb03ba205891129"
+    },
+    {
+      "id": "believe.palestinian-state.voice.gal",
+      "kind": "content",
+      "fingerprint": "74226db840711e30cce4861d951302584eb94b7e3dcc2f77a707890a58abe8a7",
+      "supersedes": "184d3701bbd67bddf6c0c41a6d2772011385c9bb9c17847f9ee9ef67efa05199"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.berman",
+      "kind": "content",
+      "fingerprint": "429a2423606555f9e70ee72edbc23732accf93e58dbc4ed385eba2dfbacc4684",
+      "supersedes": "d97d38270fd1ef25c1208e12b5526f6c79fdd80bdec5ceab712ae25e7cd450f6"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.vonspakovsky",
+      "kind": "content",
+      "fingerprint": "035337ad5e79b1d99a00f596fbc8bf12463765f79406663f4128f196e8c89319",
+      "supersedes": "94222902447cbca5b63d284517fb2a40e58917d559b666e243c2665025aefa12"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.waldman",
+      "kind": "content",
+      "fingerprint": "209afa77d14a931d8abf3d4f421a87c8244205621ae6a15de2f29ab75f952a92",
+      "supersedes": "c680f95f3776598a77bbbfab76af855579bcd8258d184b1eada6dec51a0d66a1"
+    }
+  ],
+  "merkleRoot": "749368cfad3c3beae502f4dea69e7611bfb667e5e2dbe4c60eb2d06793641837",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "3w6tUXuxauDjqLpwjsvVgrmphzhBamzl9frTH9G/MX9ja4uSP6IXyLSinYKuBmpJFd+3GowK9860aQaljeC9AQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAJ7CvBsxZGgPgMtt4rDRcBg1mLaF\nKgtuf+WsNFyXBPKXAAAAIGYbmBPsy1A0LUM2oAgLoPjvqAgvmCuPFkLkIsBETuNp\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/28/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/28/opentimestamps.ots"
+    }
+  ]
+}

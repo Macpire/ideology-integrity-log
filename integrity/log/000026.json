@@ -1,0 +1,131 @@
+{
+  "seq": 26,
+  "prev": "fd5ce050919a2c6bbea35f7a507d8e0dcacbef0e2a0e12305f4ed632e37d0b1a",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-15T23:49:44.090Z",
+  "records": [
+    {
+      "id": "believe.borrowing.fact.treasurer-outstanding",
+      "kind": "content",
+      "fingerprint": "b1ef2821f2af24d72b684e37553d4e2c4a954877391842a101c3169a23469b3e",
+      "supersedes": "971590349d674782447f7d63e695c6932017cc35ac9dbd42598fff639775d818"
+    },
+    {
+      "id": "believe.borrowing.voice.cieslewicz",
+      "kind": "content",
+      "fingerprint": "147cb9e6e72f24af7b8611d11fac01226099f08310108eaa4c95fd7b215f9c60",
+      "supersedes": "cd3d020b9295649623c88bf88b5358f30e4286fdd30632935c6158dbba3684d6"
+    },
+    {
+      "id": "believe.borrowing.voice.maher",
+      "kind": "content",
+      "fingerprint": "77377f2dcd5d1ebd6d73d3ed925759fff8217dbe34ef3af123c713c1d917b3f3",
+      "supersedes": "5a30f969b7355072ca301feef6109435d8e0a1926d4f4f47bd799cf3ea03a993"
+    },
+    {
+      "id": "believe.campaign-money.voice.lessig",
+      "kind": "content",
+      "fingerprint": "82de0737a1a6a90963c85f8964011d369b0f82aba123b71010a253b12e515535",
+      "supersedes": "df9fa9f95b7f28b9e99f767bd5e6621672357d86652f861299b54d1e6862099f"
+    },
+    {
+      "id": "believe.campaign-money.voice.smith",
+      "kind": "content",
+      "fingerprint": "525e733fa10483c04fe21f80f9b1f3fec9bf5fca96632aa09fa481367e0a7ec9",
+      "supersedes": "9b0b284c6c80be07925734a77ce154f0eb758eb9344dfb46f3da94e8609bcf10"
+    },
+    {
+      "id": "believe.project-review.voice.elmendorf",
+      "kind": "content",
+      "fingerprint": "d3c46d109383454f1a5a919a0d0af1bc8da2d29231cb5ddaef3882f479a047b0",
+      "supersedes": "c863c33dfee9ce495eee85316aef697a39733353ec07b0632aa3ccbf4938f1fc"
+    },
+    {
+      "id": "believe.project-review.voice.hecht",
+      "kind": "content",
+      "fingerprint": "6f0f60e52275ce931affb9d394b31bc41e7d04b5c561492bb180f265005368e5",
+      "supersedes": "dc3b5b6c2a2e3dfe6c72cc8846d272b06761d4500562f3c575a4f9d819d71637"
+    },
+    {
+      "id": "believe.project-review.voice.pettit",
+      "kind": "content",
+      "fingerprint": "6b1920bd1ce57ec2f0225cb7946a27b46f834c0bc4679c8f9c810946d7f733e9",
+      "supersedes": "d25fe4b5a94e470a368052de9009c5aee64e77df57c271f07ef60cf0387f34f8"
+    },
+    {
+      "id": "believe.rainy-day.fact.lao-rainy-day-rules",
+      "kind": "content",
+      "fingerprint": "89faecab98b217334c842bec3924bee6dc410cd583185727273d4614882dc3d0",
+      "supersedes": "b4de4f9195c525fc3e3b308e2df73badcea6db8ac0b5074c9c183edf35cdeddf"
+    },
+    {
+      "id": "believe.rainy-day.fact.lao-volatility",
+      "kind": "content",
+      "fingerprint": "c7511cfd767c3ed3769d172369e13755fa8fff8c4ac9dabb751d0b7e235a3878",
+      "supersedes": "7763459a44197f4ee02919132250fd62a76e7b53177b8b05f9f5c73efa37775d"
+    },
+    {
+      "id": "believe.rainy-day.voice.graves",
+      "kind": "content",
+      "fingerprint": "1475d50d9051a4c390cdb4b4af1f1f5f83ecc8ffe13a976452a2dcfb409182b5",
+      "supersedes": "5bb9d6759017a592b2c65e2afaa6e586454407d936d32226e5134cf06faa6477"
+    },
+    {
+      "id": "believe.rainy-day.voice.petek",
+      "kind": "content",
+      "fingerprint": "226d186a5a232696c8647017db3b2b973099a7f8ed1dfb6810c48b6cb31d8b37",
+      "supersedes": "78f4742cb41ee081ad9a340e27478424206c02e0705e84cc64da612cbd73b016"
+    },
+    {
+      "id": "believe.tax-share.fact.lao-top1-share",
+      "kind": "content",
+      "fingerprint": "b81a09b6e43a4e600d7a603abf5ceff155fce5d99f588007787f7d8f119cd7ca",
+      "supersedes": "8c4a8a3b1b63fb4dff53722f9ab61ba963d0a54c2413e59be1e860715607ab32"
+    },
+    {
+      "id": "believe.tax-threshold.fact.lao-prop39-passage",
+      "kind": "content",
+      "fingerprint": "21418f5fbe63ec07cbccf0db521e85a2e52ea764b4e555c8508a33ab52e046f7",
+      "supersedes": "c2680b8bcdfa1840e45639a8362e677dbcdf6f6b038976b88852ed46414ecbdc"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.berman",
+      "kind": "content",
+      "fingerprint": "429a2423606555f9e70ee72edbc23732accf93e58dbc4ed385eba2dfbacc4684",
+      "supersedes": "d97d38270fd1ef25c1208e12b5526f6c79fdd80bdec5ceab712ae25e7cd450f6"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.vonspakovsky",
+      "kind": "content",
+      "fingerprint": "035337ad5e79b1d99a00f596fbc8bf12463765f79406663f4128f196e8c89319",
+      "supersedes": "94222902447cbca5b63d284517fb2a40e58917d559b666e243c2665025aefa12"
+    },
+    {
+      "id": "believe.voting-rules-eligible.voice.waldman",
+      "kind": "content",
+      "fingerprint": "209afa77d14a931d8abf3d4f421a87c8244205621ae6a15de2f29ab75f952a92",
+      "supersedes": "c680f95f3776598a77bbbfab76af855579bcd8258d184b1eada6dec51a0d66a1"
+    }
+  ],
+  "merkleRoot": "bf3379f08013fe479e3328875e9fa03a2ea927574be18d236e6e1f0d61808c82",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "JEGqekIRGxWW9qPk5YNIyS9tg2/jM8BuxG+7bk4Wc2OpYXL3c8VT+LZrWXhtubGtADos0uMcLJJS7P8B/ughAA=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhANNug6L0274Lier/rsPLbuib/HZi\nhxsgtHyryBnOgIgEAAAAIDV855dpJUJX7Wm8mpXkSt+vVM62lTdUJm+XkiPaZcH3\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/26/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/26/opentimestamps.ots"
+    }
+  ]
+}
