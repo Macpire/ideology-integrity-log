@@ -1,0 +1,329 @@
+{
+  "seq": 29,
+  "prev": "933b239f2522ae48656c2d87f5621b46f7e96b7f87840f680e0bd41ab4cd42fc",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-16T00:30:34.169Z",
+  "records": [
+    {
+      "id": "believe.ballot-measures.fact.legislature-places",
+      "kind": "content",
+      "fingerprint": "7b37f8090ac6456069e9a27662cf48dceec6ce0f2861e869f61db158c8533500",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.fact.no-amend",
+      "kind": "content",
+      "fingerprint": "76cb750e1d8f5466859f0a41e9d5e930c1365e6ae9ec3109dc4b93bb9ffaa85a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.fact.signatures",
+      "kind": "content",
+      "fingerprint": "5adc8ce8bb58c1f0319c2cd0c9d53942bdd39a7b77e943b0ebd4cabd27c550bd",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.bwilliams",
+      "kind": "content",
+      "fingerprint": "089638e1f69aa2008f2c3c6a8bfd97b4ad3217bfd461896222550e49a4676ad5",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.bwilliams:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "9e493381f4a53d8f7a2eec220686b2369bb0b70ab4da34c183458f4d510e31db",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.hall",
+      "kind": "content",
+      "fingerprint": "0902f3d929c911fac28d4d544b031bc24aa3c17079914843a224a56f1de7ff7c",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.hall:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "89530afc807279e67e5980972ca82c93b91d89a7bf444433bd4bdaa30b470f44",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.matsusaka",
+      "kind": "content",
+      "fingerprint": "b5b53de0f9babf39ecdeddd74f4182f8e078d64facc3816b36ce0e4cbf5547a2",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.matsusaka:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "351f6436e74cdb7961335ba5dba08b1615f4204d262657f14491a57c1a4c4601",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.taylor",
+      "kind": "content",
+      "fingerprint": "916037399be5f181b2167fa8bf764a70b9c7789eab576c875c2ed4950ebbd648",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures.voice.taylor:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "75f654d9cfbfcf093303dd6eddfe7f40fe1a1430e196d9580d8a361903c5c2ef",
+      "supersedes": null
+    },
+    {
+      "id": "believe.ballot-measures:framing",
+      "kind": "judgment",
+      "fingerprint": "45c1ee59cdd2a1c5d3ffe0718bafc4e1d4f506a11efdd821d55d99d1fca382dc",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.fact.lihtc",
+      "kind": "content",
+      "fingerprint": "080743b8829044c8db20dd3a62e1dd9ce0ff579708d76c4be92bda230d43e707",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.fact.renters-burdened",
+      "kind": "content",
+      "fingerprint": "758e16d8259167ec9cda61d2896b67a58dd95589cca5a251ec6a88986b5a3ca8",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.fact.state-goal",
+      "kind": "content",
+      "fingerprint": "995ab822cfa9dd8b7d566ed79ceeda3347f17311c1c05557ad4a7c56c726c6c7",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.dreier",
+      "kind": "content",
+      "fingerprint": "0951dda24ed481d40035addb17ae01dad85655b0f42e509e2f745e6661e2a5c9",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.dreier:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "f341290bb03cee8b474b66aebdbaa4ddd844d6bda0740036060763cadc9bbddb",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.gray",
+      "kind": "content",
+      "fingerprint": "b6021be8d65824d3a11e2b51be5045ac70e128cab8c3ad81c101cd92aa99f15d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.gray:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a17e6dd6bd279cac4ebb47779199f2500417e74d200f746d4131dfe6c856ee5d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.schuetz",
+      "kind": "content",
+      "fingerprint": "28120eda556c512ef221f16f1566e414b03ec50c6f38685fdcbbfc8000a7a65d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.schuetz:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "01e5b5e5bf314363748d92b8091dfb92e3c71d63db4f754dbd7b58689a2c6869",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.yentel",
+      "kind": "content",
+      "fingerprint": "6b3196865381a2fe156a592f7f3b1a120cdcafe23ecc2e7c7b94efdc410e61bd",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply.voice.yentel:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "502f1d2e820f13730c9dc66f84c637a6c3c6db2d7d26e55859469e2eaba24238",
+      "supersedes": null
+    },
+    {
+      "id": "believe.housing-supply:framing",
+      "kind": "judgment",
+      "fingerprint": "d8d715874ed3d796ec600a796652869841822688e68e00220c0f207493dd38d0",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.fact.ca-legislature",
+      "kind": "content",
+      "fingerprint": "bfa750bab2fabdfb1d9d8c3725d57de2a172968747a51ee3188e66a5dc936a60",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.fact.seventeenth",
+      "kind": "content",
+      "fingerprint": "3de4a9b772e366fafa684a941e491118365cb78ddbb6a8461ee987b6696f3b16",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.levinson",
+      "kind": "content",
+      "fingerprint": "6157a23f976dd8d229c36cb3477350ebeb182da0c31ee5922b7544dd42f7ac02",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.levinson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "749d983420194c38690034c7c0881fc35ea2f424f69d656bb6731411d5653d81",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.naumann",
+      "kind": "content",
+      "fingerprint": "d8205d925add9ecb5141e5c87cd03b0687f064b453cac4f18171cd3ac6df539c",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.naumann:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "69cee84bba1a72119e19ffbadc901cf15448c2d13ca34660a74b9ff194398b26",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.richie",
+      "kind": "content",
+      "fingerprint": "c9092b8d0dbbc856f9f51a24320596403dd80e019bc157994a2d223590c262f3",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.richie:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5b4f7072c60fca1d4f3109bd9d0cf1c68f8189fb5ec69b635e414a450356f73a",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.yeargain",
+      "kind": "content",
+      "fingerprint": "507f1a8598065eecccac45d30e06e503c97d4c84c15b2b60a09b661a49bfe507",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy.voice.yeargain:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "8f61ac8191ede6333170816fc1a87aa7c55be52ed166536ed483a685d79e7e35",
+      "supersedes": null
+    },
+    {
+      "id": "believe.office-vacancy:framing",
+      "kind": "judgment",
+      "fingerprint": "d15418c28b17146c0de4ce9179646975ed4899c7f4fafb90cef02819d64db60c",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.fact.basic-research",
+      "kind": "content",
+      "fingerprint": "ef9b69240be047462721d5c8d4383029f3011afd1d9838a39b7bafda369436c6",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.fact.rd-funders",
+      "kind": "content",
+      "fingerprint": "70deea4dba0a11704a778db79ca9a932000cc6df03f84635d6929a04b12a71eb",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.atkinson",
+      "kind": "content",
+      "fingerprint": "5c4ec0be310f2f3187ba021afd21442dc0808eccd4f0b0fb41302015c9cb5ecc",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.atkinson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "453958d6a0f0bccd2fb4e30c9376374c778230b349dbbee1538efacfe994b25e",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.boudreaux",
+      "kind": "content",
+      "fingerprint": "32e243989e7847c9d6de3337aa0ad922e366698791b7a6fbc5da18e3a5f6bbca",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.boudreaux:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b66542b3dd86d62c49d2a0b1adfc6e2a344cf9fdf7997c2f07f02752df0d2b13",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.derugy",
+      "kind": "content",
+      "fingerprint": "81b454eea825fc5c927214d5606f0d2de30048183b627bcfff898662c9b263f9",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.derugy:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "10d7615b6aba9d8efac0805aaa18fdd0171b21448aeceac84109d5be332d0a98",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.henderson",
+      "kind": "content",
+      "fingerprint": "f35e1114ea9a0d55484b171dcc0cfd4ebfaf59a03534775bdc03876f994dd42b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.henderson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "48f8cb1bfe699fdca2e20133f7e0302bcb164a2f6027884ab9b284478c74e921",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.johnson",
+      "kind": "content",
+      "fingerprint": "aa52cc292af5418d922cb6b85920e733162bf82e0e9247a4cd13a4dff7ab008d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.johnson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b48e0150856c88c6b08892c0eb987f692760497186415b47aa7ab066ef1da6b0",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.pethokoukis",
+      "kind": "content",
+      "fingerprint": "f2ffc8f4a404675728562c4a713bbd89d5cbf5300306e93a09974fb96e26ebaa",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment.voice.pethokoukis:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "52c1cde027dd29c1aad89beb24ba8b57ee936673fcf43c6fa7ed49c6f199d26e",
+      "supersedes": null
+    },
+    {
+      "id": "believe.public-investment:framing",
+      "kind": "judgment",
+      "fingerprint": "23caba2b76dfba421b4da2bd73e9b80e3739055139adee1fe36d6d63ed5debef",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "9123ddf7ef8590d24d52bbf8650939bd01eaf265724b726e1289d69749675da9",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "kg0++x4En3JJmaNx/Ph1xecMoxQP7a/hohx7gb5AJnkTuiS19wCNZRCyM1Fk7N/+x7853JQAGsmQ1GQxOoj5DQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAgBDQlAE7lY/M3MRucg2jmk2mSdpEG\n1kc65YcPCS1Jq1kAAAAhAP7+iUq7voFOEzwyJl2InHpg7vsmy2gzQq1V+lJ9GS44\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/29/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/29/opentimestamps.ots"
+    }
+  ]
+}
