@@ -1,0 +1,41 @@
+{
+  "seq": 31,
+  "prev": "f7732a40c08e03428e49cf5a3f5331b2eef37bedb65cea0f3bd9aa0e2f51b666",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-17T09:13:10.599Z",
+  "records": [
+    {
+      "id": "believe.security-control.voice.hughes",
+      "kind": "content",
+      "fingerprint": "82ef99c7361cf914beee8621c4cb7c6e8caf4bc02f16af2f9c36abdf5beb26de",
+      "supersedes": null
+    },
+    {
+      "id": "believe.security-control.voice.hughes:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "2e5f99ecc786fd6fb44d4a1bd3059673265218006ece3f10548a7c9f91ea3e2a",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "d745a3755186d4a447f0cbdbe7f38849285e32c8b77b66a3e5f955830fd8140a",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "Pf1vMfSOZW/7Px/cLqoxHhjCHX4J5Va151ID16JKpNvv17cxxZWgLHNr3U/ufrlFTkmD9VOrm1fb2JxiQRczAg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAKDXyDtHu8qSJs1DraVu4ZBTpGDS\nyl+/ExzIuprtgo6uAAAAIA2XwCqCIGkWxD0nMSGSSrSOSYgle+z5mmA58sT40/Y8\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/31/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/31/opentimestamps.ots"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "seq": 32,
+  "prev": "630ae5e23b973bbec528e894aaca378340d2bd9b4fed9813184416a908078f2a",
+  "edition": "us-midterm-2026",
+  "publishedAt": "2026-10-17T09:13:10.599Z",
+  "records": [
+    {
+      "id": "believe.campaign-money.voice.eide",
+      "kind": "content",
+      "fingerprint": "dac391d0074f856af82e4a5e5062aa200fc9076a5a13fe42fc0de35074af8cff",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.eide:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "ef45c7244904a1c635c7a63cb6a5e513f3276bcec19d941880a1d826fd76c408",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.gomes",
+      "kind": "content",
+      "fingerprint": "9e0d029c0b6ae5c84292cf4bd0c20e05dc5f83cec43f568d2fd4444be6a560a6",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.gomes:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "dd529d088b11d01867f11828839d252967c8090a21097cfc99247122fd5badb5",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.healy",
+      "kind": "content",
+      "fingerprint": "72d414ac35df821c9889db731b4a28eb90fcccd024bd53a9e97d40e3b43abc4b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.healy:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "fa799275f598e2cf7d2f919e459da57e7e4f628fe29955c778f0853bd893ae58",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.kornberg",
+      "kind": "content",
+      "fingerprint": "54d59a62b43f979d6d2ad73225c8bb6e6635417f94ee2d37601330b8aa2fefee",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.kornberg:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "85c0737f0e6d3df3e7b196ba85b6daed24e16e80a6e9b4246c3327d48bb944de",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "df16c1cf13e7c333ddd21d2dfeba051bb77ac484305a7124499ad06ca50eae33",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "q3n2t+xCH+Cf08F2x9ESbUb2Cca0lZg/FDH/gH9G5Zly6VkH8vJ48R1uCPos3/9/qF95uW8Ue4UmdEkSOs8FDw=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAgETXdujX/zLz34qG5LRI8qPELNQDK\nLtv6uzllfVphAeYAAAAhALmHg/nsNhiqSqOZXYhaRDJClSwDyHbTbRnzT8k8nAo4\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/32/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/32/opentimestamps.ots"
+    }
+  ]
+}

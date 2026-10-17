@@ -1,0 +1,197 @@
+{
+  "seq": 30,
+  "prev": "e093118585781d7027a208a738da1c837e9192b57354013a853b906cc2f648b6",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-17T09:13:10.599Z",
+  "records": [
+    {
+      "id": "believe.borrowing.voice.walden",
+      "kind": "content",
+      "fingerprint": "b20c7741a2bb9c7b3743a4e1e2738977c07632e3e521e44b1a504c7e0a2bb80d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.borrowing.voice.walden:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "31e05eb474909932091ae995a088dfd86fccceb61f83ec3ae2c28e6348142c80",
+      "supersedes": null
+    },
+    {
+      "id": "believe.borrowing.voice.wolff",
+      "kind": "content",
+      "fingerprint": "c1cb17f37f67cf9b48cfd4149aca5def60ab3aa27f363c30e0537acbabbb3e8e",
+      "supersedes": null
+    },
+    {
+      "id": "believe.borrowing.voice.wolff:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "fc6fb4d248939a698166e9b8bcb7ab41ea2f51b5a1bea24cb505fec4cfa1b969",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.eide",
+      "kind": "content",
+      "fingerprint": "dac391d0074f856af82e4a5e5062aa200fc9076a5a13fe42fc0de35074af8cff",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.eide:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "ef45c7244904a1c635c7a63cb6a5e513f3276bcec19d941880a1d826fd76c408",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.gomes",
+      "kind": "content",
+      "fingerprint": "9e0d029c0b6ae5c84292cf4bd0c20e05dc5f83cec43f568d2fd4444be6a560a6",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.gomes:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "dd529d088b11d01867f11828839d252967c8090a21097cfc99247122fd5badb5",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.healy",
+      "kind": "content",
+      "fingerprint": "72d414ac35df821c9889db731b4a28eb90fcccd024bd53a9e97d40e3b43abc4b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.healy:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "fa799275f598e2cf7d2f919e459da57e7e4f628fe29955c778f0853bd893ae58",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.kornberg",
+      "kind": "content",
+      "fingerprint": "54d59a62b43f979d6d2ad73225c8bb6e6635417f94ee2d37601330b8aa2fefee",
+      "supersedes": null
+    },
+    {
+      "id": "believe.campaign-money.voice.kornberg:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "85c0737f0e6d3df3e7b196ba85b6daed24e16e80a6e9b4246c3327d48bb944de",
+      "supersedes": null
+    },
+    {
+      "id": "believe.project-review.voice.heatherington",
+      "kind": "content",
+      "fingerprint": "63b29e616ba2b3e2acf37388c8fd49f2cb602c9f52e88dcf860fc55fe00f6372",
+      "supersedes": null
+    },
+    {
+      "id": "believe.project-review.voice.heatherington:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "b82c570ccdd856d47a9e98ef5cf834e15abbff9d76fa4cbf4e2a0c426e274006",
+      "supersedes": null
+    },
+    {
+      "id": "believe.project-review.voice.marciniak",
+      "kind": "content",
+      "fingerprint": "2910c00e19d6e83cfe47c037a174a73bbd53b672814335c616d4a55c92ce9694",
+      "supersedes": null
+    },
+    {
+      "id": "believe.project-review.voice.marciniak:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "ad44a4221091d0e328b21e7d1c5cac08719a9a8a1f12a3d217697d76cc913cdc",
+      "supersedes": null
+    },
+    {
+      "id": "believe.rainy-day.voice.bailey",
+      "kind": "content",
+      "fingerprint": "f5688255c4c8436c6e3dd61a595caa6e922f0b4bfe9fbe719ca110e0e3fdca63",
+      "supersedes": null
+    },
+    {
+      "id": "believe.rainy-day.voice.bailey:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "5f55db48bde69cf364480a8125c62cd774efd86d9964cac163b79f76e71f0545",
+      "supersedes": null
+    },
+    {
+      "id": "believe.rainy-day.voice.freedberg",
+      "kind": "content",
+      "fingerprint": "e9010531d0bcf912363ac5eece59a7610199f85f1ab04586ed19c641f978b068",
+      "supersedes": null
+    },
+    {
+      "id": "believe.rainy-day.voice.freedberg:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "0be0cea0a8d605cd062d0d3c8a91736d5005cb8c69994411f00ed5eed2f6cd7d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share.voice.williamson",
+      "kind": "content",
+      "fingerprint": "0cc8283359d56318d4968f854cb64f682f984f862c42c8afd5bc675d6ca5f582",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share.voice.williamson:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "3fd6cfd24254d767a0ca00e1c904d205dbecc9ef3b094ca251d0469d0149d0c3",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share.voice.zucman",
+      "kind": "content",
+      "fingerprint": "2470e859f7273aa3f9a57a209b05aee10dcff39a079c79e379ab29896c802e5e",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-share.voice.zucman:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "8a3e0feed03d7a672ce8cacf5e210dc1adc8fb9e88faae443cd8476b8e0cd91b",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-threshold.voice.dubler",
+      "kind": "content",
+      "fingerprint": "98d95eb7946bb3e8ffb73eb126d4493295455176161c76aeeba0b5ee031f68f7",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-threshold.voice.dubler:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "a4b91d284c79b14942a9bb386512f80c6b3a76e226b756ef715b20606d8b6f5d",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-threshold.voice.fox",
+      "kind": "content",
+      "fingerprint": "71a4c086d5e6302a9c1d40adb846da88527fb7a3cfba078a895b288aaeb3613c",
+      "supersedes": null
+    },
+    {
+      "id": "believe.tax-threshold.voice.fox:perspective-side",
+      "kind": "judgment",
+      "fingerprint": "05530ff9ce07ff97f8f4bcc62b856a400621aa9cf63d12187f3ac0c91ed82453",
+      "supersedes": null
+    }
+  ],
+  "merkleRoot": "6358d91bc16658c2801840a0a2b3011bd50da5a2ce34490a9c1b6ce69b3256e5",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "if7uHZvRFv52YQ3L0e8CPdo21dNlJYo13ShAXRS+8x3fxOKCp9gtPruDUPtI0J1r+XMyuqepvmb845X/Z1F4Bg=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgZMhOoUDg1IugkfLUuHx0emrM7KQk\nZxHfTvMRyp/NDmkAAAAgB7MmEDc033Zcid6Q9UuHg1seWZA1lS99IB2zZj8ezTU=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/30/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/30/opentimestamps.ots"
+    }
+  ]
+}
