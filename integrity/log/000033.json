@@ -1,0 +1,209 @@
+{
+  "seq": 33,
+  "prev": "7433beff5e44f527d8b86ba9f93a5b0929feb0d537a81993f46fca7adcfcc826",
+  "edition": "il-knesset-2026",
+  "publishedAt": "2026-10-17T20:28:54.404Z",
+  "records": [
+    {
+      "id": "il-amcha-yisrael",
+      "kind": "content",
+      "fingerprint": "cdc1a9708793c07089014a004fef85edb523ab9c35d3872e1abf13e98eedf52f",
+      "supersedes": "58ad8578b39f772a026ef07377a40b0904cfa45b2ddf75ae2a0b42d694a71727"
+    },
+    {
+      "id": "il-amcha-yisrael:inclusion",
+      "kind": "judgment",
+      "fingerprint": "d09bb9b5d1490940af9cacbac8b48065d6e1917e13430a664066b5b8a642d79d",
+      "supersedes": "0960bae55017f32e4018c723d270f3f74a90f446f6d6c3066ca3aefea77650b9"
+    },
+    {
+      "id": "il-beyachad",
+      "kind": "content",
+      "fingerprint": "a76b5e7552f214b0fe37433f0d84f6e495740ecbbb7436c1a624db166a8123fd",
+      "supersedes": "f834a9d4c1e73b186188983b2b9f7a61859665028377f5504083f3192a7d3e29"
+    },
+    {
+      "id": "il-democrats",
+      "kind": "content",
+      "fingerprint": "a9cdbfb8e7d45745c1c0545b225ceea40d9e18e58f9d36172b17f3ea622dbe8c",
+      "supersedes": "0e0a41d2f76b4350870f5061c2d2bb84dcf1ed18884c094eb4c83d5e7dcc803d"
+    },
+    {
+      "id": "il-joint-list",
+      "kind": "content",
+      "fingerprint": "1179048890b0618aa96b240fe386badf5ad882e2d0b5d1e1440c7c3d7ec062cc",
+      "supersedes": "ce5e01388f7e778051e3bc06e5d62e170d9d02d6c155f2b1e3b16db257903b9f"
+    },
+    {
+      "id": "il-likud",
+      "kind": "content",
+      "fingerprint": "8b51a460a62133ee1ae30a2beff64dc94966480619bbed5c8497e66a27b5d5a8",
+      "supersedes": "751fc667d830ca6bbf26a4e3ad292001ae6d264bfd93253b64bc55f9ea8c0820"
+    },
+    {
+      "id": "il-otzma",
+      "kind": "content",
+      "fingerprint": "268383b762fe311a45fa0e679b4811e860e7c10b4effc287f95816465aca0038",
+      "supersedes": "cd0492791ae7ad361b9d99fb6c84d3a2965d5c06092fcf75b7bde754db5a8186"
+    },
+    {
+      "id": "il-raam",
+      "kind": "content",
+      "fingerprint": "c9bc9d45fd90099b179874b02b674e9d2ee1696914792d9fd51cd09cdd9ff109",
+      "supersedes": "49b56160eb91403810060482e9beade71727f69e74677ab116a703b738d217ed"
+    },
+    {
+      "id": "il-reservists-economic",
+      "kind": "content",
+      "fingerprint": "6798bdd55876787b8104ba74cef05f2f29e279b277cd4fba59ff8740c5edf418",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-cost-of-living",
+      "kind": "content",
+      "fingerprint": "c35f5f1ee73e9eed1e25da3c86d17cb6d375a64ff5146559650057dd9ca03f92",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-cost-of-living:position-side",
+      "kind": "judgment",
+      "fingerprint": "8c025ebdf79e4f81884e5024b2536fa4c289720fd4af6cd82e02e65c01439ae1",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-haredi-draft",
+      "kind": "content",
+      "fingerprint": "92067456b0c59957f0ff38beacdf7d231f6d4e91e3ed0a91d68c690dceb6f2a3",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-haredi-draft:position-side",
+      "kind": "judgment",
+      "fingerprint": "42b1a24f74c6489b4a3432027d38ba535805ffddf9ef18676d98be2e75da8a6e",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-kashrut",
+      "kind": "content",
+      "fingerprint": "f9eae34f7f49ac1830aeaa07bc3381193360cbb1d5ebaffb69b77c630f6f4fdb",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-kashrut:position-side",
+      "kind": "judgment",
+      "fingerprint": "edb7660b5f8872f11a79cd798dfd197b92cea0cde8efd5748bc206c2f79babc6",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-normalization",
+      "kind": "content",
+      "fingerprint": "e8dfc2ad6dd5d05e0c1b2dda7b1725256918dd33e0f4464520cc7c8d0a4e81c7",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-normalization:position-side",
+      "kind": "judgment",
+      "fingerprint": "abc57ec3ec9297a59a4cef479193483b23d50434b83594aae69b0ac426d2dd97",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-oct7-inquiry",
+      "kind": "content",
+      "fingerprint": "23b0fd0d52e6bfb8a276e16bdbce60407b18bf2f23d186896c5255e6e4f72742",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-oct7-inquiry:position-side",
+      "kind": "judgment",
+      "fingerprint": "3b571d017f4a757712d2348e9e536611054f77bee666f4846912906e388516ab",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-settlements",
+      "kind": "content",
+      "fingerprint": "8cb7b85fd955d7e5f7a041e1b50f6096fdf3b68460fafe62a04e0951f5cd5f5e",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-settlements:position-side",
+      "kind": "judgment",
+      "fingerprint": "1459f63fec9e82cd35cef6e4788ee1edd84ac2a3641e0b5e72fb173afa299b07",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-sovereignty",
+      "kind": "content",
+      "fingerprint": "f58301c30e6a14e4a63463427abdd8bd57e085dc21fe990b4ea5304402660c99",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic-sovereignty:position-side",
+      "kind": "judgment",
+      "fingerprint": "0457b87a203bd87a9a60f906f1fdbb29cdbe0fab1adfc87aa6ead760096d5695",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic:inclusion",
+      "kind": "judgment",
+      "fingerprint": "94745aedd4d8b45b1797323b934b1c1e87a9473a0dcac995f22a51ca8570e1a4",
+      "supersedes": null
+    },
+    {
+      "id": "il-reservists-economic:label",
+      "kind": "judgment",
+      "fingerprint": "a328a4df0fd9ece9d4c8b2a37681b389f898148b293a0a702189bd28a8fc3385",
+      "supersedes": null
+    },
+    {
+      "id": "il-rzp",
+      "kind": "content",
+      "fingerprint": "5d107c85b2af7a5ab0756c0df58267b170e0f1c6bc62166aeef0a20f473e9958",
+      "supersedes": "aae3a1d6960e8eedcb45affd25d9890674c3a1bc3918e0d8ed746b92a467689e"
+    },
+    {
+      "id": "il-shas",
+      "kind": "content",
+      "fingerprint": "7758da924b46ff8f85ae4d9b3f43253de8aca26252acbf9baf58458160ed21af",
+      "supersedes": "7f13060f5cf0104bd1e4719a4cb9998478186611252045adb7a8cba67d6560cd"
+    },
+    {
+      "id": "il-utj",
+      "kind": "content",
+      "fingerprint": "973a51c9c0e50e5ab4e9d07062dc228806ddddb415fc32c828b57d50e02d6993",
+      "supersedes": "c0088a7bea8b1298742b46f6d3a569425a3ba2576250aa07f357183ba4d6a4b4"
+    },
+    {
+      "id": "il-yashar",
+      "kind": "content",
+      "fingerprint": "97b35dea4ce1b9b2eb0dda031079a1514793613861295df86a22b676a639b5f5",
+      "supersedes": "252f66e6ad499376baa4de58062bd06948e1483ec204e14cd9d0863bda8b8fa2"
+    },
+    {
+      "id": "il-yisrael-beytenu",
+      "kind": "content",
+      "fingerprint": "385fed05852008cf5746b567f3157de351d49fe8949676cc1b4543a24553ff58",
+      "supersedes": "d1dfc6896e431d5cc217264f3910b1bb2158d9494b1d10ec4aa8c95b0d4d3193"
+    }
+  ],
+  "merkleRoot": "eabc404f867a7811616bb15bc2e10750bd31daeeaad375deed51b691cf7f0a6f",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "MDIaNs3hk4yQF2/fqI+Tkb1im4YBANDPlJJsKFwuyywy3EtugiSj0BpR0AaCmbT0kd/qjtYJ8pG4/Xi/ufKhDQ=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nQAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEkAAAAhAMhDgmZ4bn6LN8sexBlTSRbuCiq4\nqzE/QjWJPUpDiKwJAAAAIBp8NI1eYmnTQzKkKdUhV2/7hNUxmHehS/zRMJAn4fda\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/33/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/33/opentimestamps.ots"
+    }
+  ]
+}
