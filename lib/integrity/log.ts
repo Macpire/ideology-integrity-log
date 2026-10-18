@@ -1,5 +1,3 @@
-import { existsSync, readdirSync, readFileSync } from "node:fs";
-import path from "node:path";
 
 import { fingerprint } from "./canonical";
 import { merkleRoot } from "./merkle";
@@ -26,8 +24,6 @@ export type LogEntry = {
 export type EntryBody = Omit<LogEntry, "serviceSig" | "ownerSig" | "receipts">;
 
 const ISO_INSTANT = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{2}:\d{2})$/;
-
-export const LOG_DIR =path.join("integrity", "log");
 
 export const entryFileName = (seq: number) => `${String(seq).padStart(6, "0")}.json`;
 
@@ -60,11 +56,3 @@ export function verifyChain(entries: LogEntry[]): { ok: true } | { ok: false; se
   return { ok: true };
 }
 
-// integrity/log/*.json in seq order.
-export function readLog(dir: string = path.join(process.cwd(), LOG_DIR)): LogEntry[] {
-  if (!existsSync(dir)) return [];
-  return readdirSync(dir)
-    .filter((name) => /^\d+\.json$/.test(name))
-    .map((name) => JSON.parse(readFileSync(path.join(dir, name), "utf8")) as LogEntry)
-    .sort((a, b) => a.seq - b.seq);
-}
