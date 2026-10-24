@@ -1,0 +1,95 @@
+{
+  "seq": 34,
+  "prev": "367ef6dc3df619f5009790c46d032b4e6b3b58d7f2c4d1f844d51df52e2dbe79",
+  "edition": "ca-2026",
+  "publishedAt": "2026-10-24T01:30:10.200Z",
+  "records": [
+    {
+      "id": "ca-prop-1",
+      "kind": "content",
+      "fingerprint": "8e5d696498c960d36b7a443254e883ae1d8ef9458271478c59d9fca394f86be6",
+      "supersedes": "6089082cc3dfea1f0c1c0e1be50142ef804505add010e359a1a1590dcf306f8c"
+    },
+    {
+      "id": "ca-prop-3",
+      "kind": "content",
+      "fingerprint": "e8875d248eb7cf988945376570c7c50b528b33b66804d6d79b31ffce83cb61d5",
+      "supersedes": "73c8b4b19fcf1a2400262cdb99f4ecec7594ffb27c91fc4e7c9e93c0e1a0aeb3"
+    },
+    {
+      "id": "ca-prop-37",
+      "kind": "content",
+      "fingerprint": "207a63e2745164f688a3943f092dcccace50883a83410458f4ef173cd5c17147",
+      "supersedes": "5d0ec1b1510ab347a3e5feaad629ec3a202db173ae2846e1828cc92cfa13a259"
+    },
+    {
+      "id": "ca-prop-38",
+      "kind": "content",
+      "fingerprint": "8af0f2311a5115c19ca570239486f86c6ec0209dd1bce099bb6f7d0b0806a9ae",
+      "supersedes": "0bd5b285dc3a68719b852080131c75042e7f18321ad2d57e9693bd2f4ccfeed9"
+    },
+    {
+      "id": "ca-prop-39",
+      "kind": "content",
+      "fingerprint": "d105de37d58f9ac0bf4fe1bc9e0aa266e685b7eff0f466e5de1b5d75a6baf2c6",
+      "supersedes": "1755cf6df9378f1936a28942253c977baedd383fbdca20e5303ab2ef72e43ca9"
+    },
+    {
+      "id": "ca-prop-40",
+      "kind": "content",
+      "fingerprint": "08efcb9d50b3a78f4c19bd44a4d1718a0bdc994df653eac39e5b72d93477442d",
+      "supersedes": "6d713ab879c1d9c3b0478a6bedb24ca6958811eefa600a04f8a8168b416f8131"
+    },
+    {
+      "id": "ca-prop-41",
+      "kind": "content",
+      "fingerprint": "d801ed286c717063bd46dea1cbfdc537567fd055de67cf19bdd123c756c992df",
+      "supersedes": "97f6dfddcefbae998683f622f0da5a57e6edadec293dbb4715b90321b3aceeb4"
+    },
+    {
+      "id": "ca-prop-42",
+      "kind": "content",
+      "fingerprint": "7273a8127ce2ba2750f43bdaf507b077858d3481c53e65af06b7f4271982b8b2",
+      "supersedes": "c1ab6e463c9a1f60a22fe58cfc23c7bf1c7e9485716d75ea1e1866ab9bc99acc"
+    },
+    {
+      "id": "ca-prop-43",
+      "kind": "content",
+      "fingerprint": "605d91cf899ce3384ba75a344e398021a0cc4e04d9663bf89bffc40af0446c33",
+      "supersedes": "96ea5b22c80cd5eb447db7a71e27f2c5b9343d81ddd3d8837a34360c8ea8befb"
+    },
+    {
+      "id": "ca-prop-44",
+      "kind": "content",
+      "fingerprint": "1d74483950ae3926807deab0fb1fa048b726643bfb1bf6df268712e8048ee6fd",
+      "supersedes": "a912dacac76c58c664283a77bed952ed8438588b253542bb92f1b8fa5d2692c9"
+    },
+    {
+      "id": "ca-prop-45",
+      "kind": "content",
+      "fingerprint": "f095d59fd0a13adb24c98c5ffa6dfbe96a7fdcb60b781fab1752e01a8c29b08b",
+      "supersedes": "8df910b631b3e5ed4fed18a583647a9c8b4c87277b388a00fc1ce2329ff52895"
+    }
+  ],
+  "merkleRoot": "ebb6e118319909d382dbf43ccce8479e6f66e2cd33a11124671636a7efeec2e4",
+  "serviceSig": {
+    "keyId": "service:a3f979541aee7826",
+    "sig": "obJWqAx0SRtqzCARoeR2z+7cGdexX1ecJSUiabEqV309tboWs+p7IJzmUMB+c7p3SdLmohiNXR/MIiCklih+CA=="
+  },
+  "ownerSig": {
+    "keyId": "SHA256:h82SrxLU1wYr+jpy4Vl9/9iQlAO+HQX1umVBdhy/Ss0",
+    "sshsig": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAAGgAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAAhuaXN0cDI1NgAAAE\nEEoxp1EZZ9rp5AYfMO9hQLs04GmJM0haaJgOQhAuCHlPkycB3FgiORcXWBtEUua5jLg16r\npgFNQZQ7R7CMCmON2QAAABJpZGVvbG9neS1pbnRlZ3JpdHkAAAAAAAAABnNoYTUxMgAAAG\nMAAAATZWNkc2Etc2hhMi1uaXN0cDI1NgAAAEgAAAAgLwV2sjOCpjFRDZCE1u+g3qu3i3oP\nTaTmABOLUtY2OWQAAAAgLyTaIqnlKIy3ColzJhjsH44iI/sgrHyOgw83mfivABw=\n-----END SSH SIGNATURE-----\n"
+  },
+  "receipts": [
+    {
+      "witness": "rfc3161",
+      "status": "ok",
+      "ref": "integrity/receipts/34/rfc3161.tsr"
+    },
+    {
+      "witness": "opentimestamps",
+      "status": "pending",
+      "ref": "integrity/receipts/34/opentimestamps.ots"
+    }
+  ]
+}
